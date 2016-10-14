@@ -1,132 +1,70 @@
-#EXTINF:-1,BEINSPORT_FULLHD3
-http://195.154.182.238:5477/live/adli/adli/5772.ts
-#EXTINF:-1,BEINSPORT_FULLHD4
-http://195.154.182.238:5477/live/adli/adli/5773.ts
-#EXTINF:-1,BEINSPORT_FULLHD5
-http://195.154.182.238:5477/live/adli/adli/5774.ts
-#EXTINF:-1,BEINSPORT_FULLHD6
-http://195.154.182.238:5477/live/adli/adli/5775.ts
-#EXTINF:-1,BEINSPORT_FULLHD7
-http://195.154.182.238:5477/live/adli/adli/5776.ts
-#EXTINF:-1,BEINSPORT_FULLHD8
-http://195.154.182.238:5477/live/adli/adli/5777.ts
-#EXTINF:-1,BEINSPORT_FULLHD9
-http://195.154.182.238:5477/live/adli/adli/5778.ts
-#EXTINF:-1,BEINSPORT_FULLHD10
-http://195.154.182.238:5477/live/adli/adli/5779.ts
-#EXTINF:-1,BEINSPORT_FULLHD11
-http://195.154.182.238:5477/live/adli/adli/6585.ts
-#EXTINF:-1,BEINSPORT_FULLHD12
-http://195.154.182.238:5477/live/adli/adli/8534.ts
-#EXTINF:-1,BeinSport_1HD
-http://195.154.182.238:5477/live/adli/adli/5791.ts
-#EXTINF:-1,BeinSport_2HD
-http://195.154.182.238:5477/live/adli/adli/5794.ts
-#EXTINF:-1,BeinSport_3HD
-http://195.154.182.238:5477/live/adli/adli/5797.ts
-#EXTINF:-1,BeinSport_4HD
-http://195.154.182.238:5477/live/adli/adli/5800.ts
-#EXTINF:-1,BeinSport_5HD
-http://195.154.182.238:5477/live/adli/adli/5803.ts
-#EXTINF:-1,BeinSport_6HD
-http://195.154.182.238:5477/live/adli/adli/5806.ts
-#EXTINF:-1,BeinSport_7HD
-http://195.154.182.238:5477/live/adli/adli/5809.ts
-#EXTINF:-1,BeinSport_8HD
-http://195.154.182.238:5477/live/adli/adli/5812.ts
-#EXTINF:-1,BeinSport_9HD
-http://195.154.182.238:5477/live/adli/adli/5815.ts
-#EXTINF:-1,BeinSport_10HD
-http://195.154.182.238:5477/live/adli/adli/5818.ts
-#EXTINF:-1,BeinSports_1HD
-http://195.154.182.238:5477/live/adli/adli/5792.ts
-#EXTINF:-1,BeinSports_2HD
-http://195.154.182.238:5477/live/adli/adli/5795.ts
-#EXTINF:-1,BeinSports_3HD
-http://195.154.182.238:5477/live/adli/adli/5798.ts
-#EXTINF:-1,BeinSports_4HD
-http://195.154.182.238:5477/live/adli/adli/5801.ts
-#EXTINF:-1,BeinSports_5HD
-http://195.154.182.238:5477/live/adli/adli/5804.ts
-#EXTINF:-1,BeinSports_6HD
-http://195.154.182.238:5477/live/adli/adli/5807.ts
-#EXTINF:-1,BeinSports_7HD
-http://195.154.182.238:5477/live/adli/adli/5810.ts
-#EXTINF:-1,BeinSports_8HD
-http://195.154.182.238:5477/live/adli/adli/5813.ts
-#EXTINF:-1,BeinSports_9HD
-http://195.154.182.238:5477/live/adli/adli/5816.ts
-#EXTINF:-1,BeinSports_10HD
-http://195.154.182.238:5477/live/adli/adli/5819.ts
-#EXTINF:-1,BE:BEINSPORT_1HD
-http://195.154.182.238:5477/live/adli/adli/3845.ts
-#EXTINF:-1,BE:BEINSPORT_2HD
-http://195.154.182.238:5477/live/adli/adli/3846.ts
-#EXTINF:-1,BE:-BEINSPORT_3HD
-http://195.154.182.238:5477/live/adli/adli/3847.ts
-#EXTINF:-1,BE:BEINSPORT_4HD
-http://195.154.182.238:5477/live/adli/adli/3848.ts
-#EXTINF:-1,BE:BEINSPORT_5HD
-http://195.154.182.238:5477/live/adli/adli/3849.ts
-#EXTINF:-1,BE:BEINSPORT_6HD
-http://195.154.182.238:5477/live/adli/adli/3850.ts
-#EXTINF:-1,BE:BEINSPORT_7HD
-http://195.154.182.238:5477/live/adli/adli/3851.ts
-#EXTINF:-1,BE:BEINSPORT_8HD
-http://195.154.182.238:5477/live/adli/adli/3852.ts
-#EXTINF:-1,Q:beIN-Sports_1
-http://195.154.182.238:5477/live/adli/adli/9374.ts
-#EXTINF:-1,Q:beIN-Sports_2
-http://195.154.182.238:5477/live/adli/adli/9375.ts
-#EXTINF:-1,Q:beIN-Sports_3
-http://195.154.182.238:5477/live/adli/adli/9376.ts
-#EXTINF:-1,AR: beIN Sports News HD
-http://164.132.162.18:8000/live/mehtab/mehtab/302.ts
-#EXTINF:-1,AR: beIN Sports 1 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/129.ts
-#EXTINF:-1,AR: Bein Sports 1 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1731.ts
-#EXTINF:-1,AR: bEIN Sports 2 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/137.ts
-#EXTINF:-1,AR: Bein Sports 2 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1732.ts
-#EXTINF:-1,AR: beIN Sports 3 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/136.ts
-#EXTINF:-1,AR: Bein Sports 3 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1733.ts
-#EXTINF:-1,AR: beIN Sports 4 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/135.ts
-#EXTINF:-1,AR: Bein Sports 4 bkup
-http://164.132.162.18:8000/live/mehtab/mehtab/1734.ts
-#EXTINF:-1,AR: beIN Sports 5 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/134.ts
-#EXTINF:-1,AR: Bein Sports 5 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1735.ts
-#EXTINF:-1,AR: beIN Sports 6 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/133.ts
-#EXTINF:-1,AR: Bein Sports 6 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1736.ts
-#EXTINF:-1,AR: beIN Sports 7 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/132.ts
-#EXTINF:-1,AR: Bein Sports 7 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1737.ts
-#EXTINF:-1,AR: beIN Sports 8 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/131.ts
-#EXTINF:-1,AR: Bein Sports 8 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1738.ts
-#EXTINF:-1,AR: beIN Sports 9 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/130.ts
-#EXTINF:-1,AR: Bein Sports 9 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1739.ts
-#EXTINF:-1,AR: beIN Sports 10 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/138.ts
-#EXTINF:-1,AR: Bein Sports 10 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1740.ts
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/368.ts
-#EXTINF:-1,AR: Bein Sports 11 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1741.ts
-#EXTINF:-1,AR: bein sports 12 HD
-http://164.132.162.18:8000/live/mehtab/mehtab/367.ts
-#EXTINF:-1,AR: Bein Sports 12 SD
-http://164.132.162.18:8000/live/mehtab/mehtab/1742.ts
+#EXTINF:-1,Bein-Sport-2HD
+http://149.202.69.8:8000/live/salah/salah/2271.ts
+#EXTINF:-1,Bein-Sport-3HD
+http://149.202.69.8:8000/live/salah/salah/2272.ts
+#EXTINF:-1,Bein-Sport-4HD
+http://149.202.69.8:8000/live/salah/salah/2273.ts
+#EXTINF:-1,Bein-Sport-5HD
+http://149.202.69.8:8000/live/salah/salah/2274.ts
+#EXTINF:-1,Bein-Sport-6HD
+http://149.202.69.8:8000/live/salah/salah/2275.ts
+#EXTINF:-1,Bein-Sport-7HD
+http://149.202.69.8:8000/live/salah/salah/2276.ts
+#EXTINF:-1,Bein-Sport-8HD
+http://149.202.69.8:8000/live/salah/salah/2277.ts
+#EXTINF:-1,Bein-Sport-9HD
+http://149.202.69.8:8000/live/salah/salah/2278.ts
+#EXTINF:-1,Bein-Sport-10HD
+http://149.202.69.8:8000/live/salah/salah/2279.ts
+#EXTINF:-1,Bein-Sport-11HD
+http://149.202.69.8:8000/live/salah/salah/2280.ts
+#EXTINF:-1,Bein-Sport-12HD
+http://149.202.69.8:8000/live/salah/salah/2281.ts
+#EXTINF:-1,Bein-Sport-13HD
+http://149.202.69.8:8000/live/salah/salah/2282.ts
+#EXTINF:-1,Bein-Sport-1HD+12
+http://149.202.69.8:8000/live/salah/salah/2269.ts
+#EXTINF:-1,A-BEIN-SPORTS1
+http://149.202.69.8:8000/live/salah/salah/3852.ts
+#EXTINF:-1,A-BEIN-SPORTS2
+http://149.202.69.8:8000/live/salah/salah/3853.ts
+#EXTINF:-1,A-BEIN-SPORTS3
+http://149.202.69.8:8000/live/salah/salah/3854.ts
+#EXTINF:-1,A-BEIN-SPORTS4
+http://149.202.69.8:8000/live/salah/salah/3855.ts
+#EXTINF:-1,A-BEIN-SPORTS5
+http://149.202.69.8:8000/live/salah/salah/3856.ts
+#EXTINF:-1,A-BEIN-SPORTS6
+http://149.202.69.8:8000/live/salah/salah/3857.ts
+#EXTINF:-1,A-BEIN-SPORTS7
+http://149.202.69.8:8000/live/salah/salah/3858.ts
+#EXTINF:-1,A-BEIN-SPORTS8
+http://149.202.69.8:8000/live/salah/salah/3859.ts
+#EXTINF:-1,A-BEIN-SPORTS9
+http://149.202.69.8:8000/live/salah/salah/3860.ts
+#EXTINF:-1,A-BEIN-SPORTS10
+http://149.202.69.8:8000/live/salah/salah/3861.ts
+#EXTINF:-1,A-BEIN-SPORTS11
+http://149.202.69.8:8000/live/salah/salah/3862.ts
+#EXTINF:-1,A-BEIN-SPORTS12
+http://149.202.69.8:8000/live/salah/salah/3863.ts
+#EXTINF:-1,A-BEIN-SPORTS14
+http://149.202.69.8:8000/live/salah/salah/3864.ts
+#EXTINF:-1,A-BEIN-SPORTS15
+http://149.202.69.8:8000/live/salah/salah/3865.ts
+#EXTINF:-1,A-BEIN-SPORTS16
+http://149.202.69.8:8000/live/salah/salah/3866.ts
+#EXTINF:-1,A-BEIN-SPORTS17
+http://149.202.69.8:8000/live/salah/salah/3867.ts
+#EXTINF:-1,SFR-SPORT-1HD
+http://149.202.69.8:8000/live/salah/salah/4295.ts
+#EXTINF:-1,SFR-SPORT-2HD
+http://149.202.69.8:8000/live/salah/salah/4296.ts
+#EXTINF:-1,SFR-SPORT-3HD
+http://149.202.69.8:8000/live/salah/salah/4297.ts
+#EXTINF:-1,AR-AlkassSport1
+http://149.202.69.8:8000/live/salah/salah/3810.ts
+#EXTINF:-1,AR-AlkassSport3
+http://149.202.69.8:8000/live/salah/salah/3811.ts
+#EXTINF:-1,AR-AlkassSport4
+http://149.202.69.8:8000/live/salah/salah/3812.ts
