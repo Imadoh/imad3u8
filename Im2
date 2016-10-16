@@ -1,261 +1,760 @@
-#EXTM3U
-#EXTINF:-1,FR_TF1_HD
-http://151.80.27.59:8000/live/1010/1010/207.ts
-#EXTINF:-1,FR_FRANCE_2_HD
-http://151.80.27.59:8000/live/1010/1010/208.ts
-#EXTINF:-1,FR_FRANCE_3_HD
-http://151.80.27.59:8000/live/1010/1010/209.ts
-#EXTINF:-1,FR_FRANCE_4_HD
-http://151.80.27.59:8000/live/1010/1010/820.ts
-#EXTINF:-1,FR_FRANCE_5_HD
-http://151.80.27.59:8000/live/1010/1010/210.ts
-#EXTINF:-1,FR_FRANCE_O
-http://151.80.27.59:8000/live/1010/1010/228.ts
-#EXTINF:-1,FR_M6_HD
-http://151.80.27.59:8000/live/1010/1010/216.ts
-#EXTINF:-1,FR_ARTE_HD
-http://151.80.27.59:8000/live/1010/1010/866.ts
-#EXTINF:-1,FR_CINE_CLUB_HD
-http://151.80.27.59:8000/live/1010/1010/882.ts
-#EXTINF:-1,FR_TMC_HD
-http://151.80.27.59:8000/live/1010/1010/226.ts
-#EXTINF:-1,FR_RTL_9_HD
-http://151.80.27.59:8000/live/1010/1010/845.ts
-#EXTINF:-1,FR_NT1
-http://151.80.27.59:8000/live/1010/1010/949.ts
-#EXTINF:-1,FR_TEVA_HD
-http://151.80.27.59:8000/live/1010/1010/870.ts
-#EXTINF:-1,FR_C8_HD
-http://151.80.27.59:8000/live/1010/1010/234.ts
-#EXTINF:-1,FR_C_STAR
-http://151.80.27.59:8000/live/1010/1010/819.ts
-#EXTINF:-1,FR_W9_HD
-http://151.80.27.59:8000/live/1010/1010/224.ts
-#EXTINF:-1,FR_NRJ_12
-http://151.80.27.59:8000/live/1010/1010/1282.ts
-#EXTINF:-1,FR_6TER HD
-http://151.80.27.59:8000/live/1010/1010/1814.ts
-#EXTINF:-1,FR_CANAL+_HD
-http://151.80.27.59:8000/live/1010/1010/201.ts
-#EXTINF:-1,FR_CANAL+_CINEMA_HD
-http://151.80.27.59:8000/live/1010/1010/202.ts
-#EXTINF:-1,FR_CANAL+_FAMILY_HD
-http://151.80.27.59:8000/live/1010/1010/204.ts
-#EXTINF:-1,FR_CANAL+_DECALE_HD
-http://151.80.27.59:8000/live/1010/1010/203.ts
-#EXTINF:-1,FR_CANAL+_SERIES_HD
-http://151.80.27.59:8000/live/1010/1010/868.ts
-#EXTINF:-1,FR_CINE+_FRISSON_HD
-http://151.80.27.59:8000/live/1010/1010/877.ts
-#EXTINF:-1,FR_CINE+_PREMIER_HD
-http://151.80.27.59:8000/live/1010/1010/878.ts
-#EXTINF:-1,FR_CINE+_FAMIZ_HD
-http://151.80.27.59:8000/live/1010/1010/876.ts
-#EXTINF:-1,FR_CINE_CLASSIC_HD
-http://151.80.27.59:8000/live/1010/1010/869.ts
-#EXTINF:-1,FR_CINE_POLAR
-http://151.80.27.59:8000/live/1010/1010/950.ts
-#EXTINF:-1,FR_CINE_PREMIER
-http://151.80.27.59:8000/live/1010/1010/874.ts
-#EXTINF:-1,FR_TMC
-http://151.80.27.59:8000/live/1010/1010/1219.ts
-#EXTINF:-1,FR_OCS_CITY
-http://151.80.27.59:8000/live/1010/1010/698.ts
-#EXTINF:-1,FR_OCS_CHOC_HD
-http://151.80.27.59:8000/live/1010/1010/959.ts
-#EXTINF:-1,FR_OCS_GEANTS
-http://151.80.27.59:8000/live/1010/1010/903.ts
-#EXTINF:-1,FR_OCS_MAX
-http://151.80.27.59:8000/live/1010/1010/902.ts
-#EXTINF:-1,FR_ACTION
-http://151.80.27.59:8000/live/1010/1010/863.ts
-#EXTINF:-1,FR_CINE_FX
-http://151.80.27.59:8000/live/1010/1010/826.ts
-#EXTINF:-1,FR_CINE+_EMOTION
-http://151.80.27.59:8000/live/1010/1010/873.ts
-#EXTINF:-1,FR_13EME_RUE_HD
-http://151.80.27.59:8000/live/1010/1010/214.ts
-#EXTINF:-1,FR_COMEDIE+
-http://151.80.27.59:8000/live/1010/1010/872.ts
-#EXTINF:-1,FR_PARIS_PREMIERE_HD
-http://151.80.27.59:8000/live/1010/1010/181.ts
-#EXTINF:-1,FR_SYFY_HD
-http://151.80.27.59:8000/live/1010/1010/95.ts
-#EXTINF:-1,FR_AB1
-http://151.80.27.59:8000/live/1010/1010/862.ts
-#EXTINF:-1,FR_E_ENTERTAINMENT
-http://151.80.27.59:8000/live/1010/1010/871.ts
-#EXTINF:-1,FR_SERIE_CLUB_HD
-http://151.80.27.59:8000/live/1010/1010/225.ts
-#EXTINF:-1,FR_NUMERO_23_HD
-http://151.80.27.59:8000/live/1010/1010/171.ts
-#EXTINF:-1,FR_BET
-http://151.80.27.59:8000/live/1010/1010/231.ts
-#EXTINF:-1,FR_AB_1
-http://151.80.27.59:8000/live/1010/1010/227.ts
-#EXTINF:-1,FR_AB3_HD
-http://151.80.27.59:8000/live/1010/1010/80.ts
-#EXTINF:-1,FR_LCI
-http://151.80.27.59:8000/live/1010/1010/1227.ts
-#EXTINF:-1,FR_TV_BREIZH_HD
-http://151.80.27.59:8000/live/1010/1010/145.ts
-#EXTINF:-1,FR_FRANCE_24
-http://151.80.27.59:8000/live/1010/1010/67.ts
-#EXTINF:-1,FR_WEO
-http://151.80.27.59:8000/live/1010/1010/1217.ts
-#EXTINF:-1,FR_I_TELE
-http://151.80.27.59:8000/live/1010/1010/213.ts
-#EXTINF:-1,FR_BFM_TV
-http://151.80.27.59:8000/live/1010/1010/211.ts
-#EXTINF:-1,FR_HD_1
-http://151.80.27.59:8000/live/1010/1010/861.ts
-#EXTINF:-1,FR_TV5_FR
-http://151.80.27.59:8000/live/1010/1010/168.ts
-#EXTINF:-1,FR_TIJI
-http://151.80.27.59:8000/live/1010/1010/235.ts
-#EXTINF:-1,FR_PIWI
-http://151.80.27.59:8000/live/1010/1010/1221.ts
-#EXTINF:-1,FR_GULLI
-http://151.80.27.59:8000/live/1010/1010/212.ts
-#EXTINF:-1,FR_BOING
-http://151.80.27.59:8000/live/1010/1010/897.ts
-#EXTINF:-1,FR_HISTOIRE_HD
-http://151.80.27.59:8000/live/1010/1010/1178.ts
-#EXTINF:-1,FR_TELETOON+1
-http://151.80.27.59:8000/live/1010/1010/827.ts
-#EXTINF:-1,FR_CANAL_J_HD
-http://151.80.27.59:8000/live/1010/1010/198.ts
-#EXTINF:-1,FR_BOOMERANG_HD
-http://151.80.27.59:8000/live/1010/1010/867.ts
-#EXTINF:-1,FR_DISNEY_XD
-http://151.80.27.59:8000/live/1010/1010/52.ts
-#EXTINF:-1,FR_DISNEY_CHANNEL
-http://151.80.27.59:8000/live/1010/1010/236.ts
-#EXTINF:-1,FR_DISNEY_JUNIOR
-http://151.80.27.59:8000/live/1010/1010/853.ts
-#EXTINF:-1,FR_DISNEY_CINEMA
-http://151.80.27.59:8000/live/1010/1010/901.ts
-#EXTINF:-1,FR_NICKELODEON_HD
-http://151.80.27.59:8000/live/1010/1010/881.ts
-#EXTINF:-1,FR_CINE_EMOTION_HD
-http://151.80.27.59:8000/live/1010/1010/884.ts
-#EXTINF:-1,FR_CARTOON_NETWORK_HD
-http://151.80.27.59:8000/live/1010/1010/218.ts
-#EXTINF:-1,FR_SFR_SPORT_1_HD
-http://151.80.27.59:8000/live/1010/1010/112.ts
-#EXTINF:-1,FR_SFR_SPORT_2_HD
-http://151.80.27.59:8000/live/1010/1010/846.ts
-#EXTINF:-1,FR_SFR_SPORT_3_HD
-http://151.80.27.59:8000/live/1010/1010/723.ts
-#EXTINF:-1,FR_CANAL+_SPORT_HD
-http://151.80.27.59:8000/live/1010/1010/205.ts
-#EXTINF:-1,FR_B_SPORTS_1_HD
-http://151.80.27.59:8000/live/1010/1010/199.ts
-#EXTINF:-1,FR_B_SPORTS_2_HD
-http://151.80.27.59:8000/live/1010/1010/200.ts
-#EXTINF:-1,FR_B_SPORTS_3_HD
-http://151.80.27.59:8000/live/1010/1010/594.ts
-#EXTINF:-1,LOW_B_SPORTS_1_HD_FR
-http://151.80.27.59:8000/live/1010/1010/1196.ts
-#EXTINF:-1,LOW_B_SPORTS_2_HD_FR
-http://151.80.27.59:8000/live/1010/1010/1133.ts
-#EXTINF:-1,LOW_B_SPORTS_3_HD_FR
-http://151.80.27.59:8000/live/1010/1010/1267.ts
-#EXTINF:-1,FR_B_SPORT_MAX_4
-http://151.80.27.59:8000/live/1010/1010/1269.ts
-#EXTINF:-1,FR_B_SPORT_MAX_5
-http://151.80.27.59:8000/live/1010/1010/1268.ts
-#EXTINF:-1,FR_B_SPORT_MAX_6
-http://151.80.27.59:8000/live/1010/1010/233.ts
-#EXTINF:-1,FR_B_SPORT_MAX_7
-http://151.80.27.59:8000/live/1010/1010/232.ts
-#EXTINF:-1,FR_B_SPORT_MAX_8
-http://151.80.27.59:8000/live/1010/1010/1232.ts
-#EXTINF:-1,FR_EUROSPORT_1
-http://151.80.27.59:8000/live/1010/1010/206.ts
-#EXTINF:-1,FR_EUROSPORT_2
-http://151.80.27.59:8000/live/1010/1010/1256.ts
-#EXTINF:-1,FR_FOOT+_24
-http://151.80.27.59:8000/live/1010/1010/883.ts
-#EXTINF:-1,FR_RTL_TVI
-http://151.80.27.59:8000/live/1010/1010/167.ts
-#EXTINF:-1,FR_OL_TV
-http://151.80.27.59:8000/live/1010/1010/844.ts
-#EXTINF:-1,FR_INFOSPORT+
-http://151.80.27.59:8000/live/1010/1010/879.ts
-#EXTINF:-1,FR_L_EQUIPE_21
-http://151.80.27.59:8000/live/1010/1010/102.ts
-#EXTINF:-1,FR_EQUIDIA_LIVE
-http://151.80.27.59:8000/live/1010/1010/170.ts
-#EXTINF:-1,FR_PLANETE+_HD
-http://151.80.27.59:8000/live/1010/1010/221.ts
-#EXTINF:-1,FR_PLANETE+_CI
-http://151.80.27.59:8000/live/1010/1010/222.ts
-#EXTINF:-1,FR_PLANETE_AE_HD
-http://151.80.27.59:8000/live/1010/1010/230.ts
-#EXTINF:-1,FR_NATIONAL_GEO_HD
-http://151.80.27.59:8000/live/1010/1010/239.ts
-#EXTINF:-1,FR_NATIONAL_GEO_WILD_HD
-http://151.80.27.59:8000/live/1010/1010/217.ts
-#EXTINF:-1,FR_USHUAIA_TV_HD
-http://151.80.27.59:8000/live/1010/1010/223.ts
-#EXTINF:-1,FR_DISCOVERY_SCIENCES_HD
-http://151.80.27.59:8000/live/1010/1010/76.ts
-#EXTINF:-1,FR_VOYAGE_HD
-http://151.80.27.59:8000/live/1010/1010/84.ts
-#EXTINF:-1,FR_ANIMAUX_HD
-http://151.80.27.59:8000/live/1010/1010/865.ts
-#EXTINF:-1,FR_CHASSE_ET_PECHE
-http://151.80.27.59:8000/live/1010/1010/860.ts
-#EXTINF:-1,FR_SCIENCES_VIE_TV
-http://151.80.27.59:8000/live/1010/1010/1220.ts
-#EXTINF:-1,FR_RMC_DECOUVERTE
-http://151.80.27.59:8000/live/1010/1010/83.ts
-#EXTINF:-1,FR_AB_MOTEUR_HD
-http://151.80.27.59:8000/live/1010/1010/1195.ts
-#EXTINF:-1,FR_RTS_LA_UNE_HD
-http://151.80.27.59:8000/live/1010/1010/124.ts
-#EXTINF:-1,FR_RTS_LA_DEUX_HD
-http://151.80.27.59:8000/live/1010/1010/121.ts
-#EXTINF:-1,FR_RTS_2_HD
-http://151.80.27.59:8000/live/1010/1010/138.ts
-#EXTINF:-1,FR_TV5_MONDE
-http://151.80.27.59:8000/live/1010/1010/1218.ts
-#EXTINF:-1,FR_TOUTE_L_HISTOIRE
-http://151.80.27.59:8000/live/1010/1010/880.ts
-#EXTINF:-1,FR_PARAMOUNT_CHANNEL_HD
-http://151.80.27.59:8000/live/1010/1010/1194.ts
-#EXTINF:-1,FR_EURO_NEWS
-http://151.80.27.59:8000/live/1010/1010/864.ts
-#EXTINF:-1,FR_CHERIE_25
-http://151.80.27.59:8000/live/1010/1010/169.ts
-#EXTINF:-1,FR_NRJ
-http://151.80.27.59:8000/live/1010/1010/220.ts
-#EXTINF:-1,FR_VH1
-http://151.80.27.59:8000/live/1010/1010/109.ts
-#EXTINF:-1,FR_MTV_HITS
-http://151.80.27.59:8000/live/1010/1010/103.ts
-#EXTINF:-1,FR_M6_MUSIC
-http://151.80.27.59:8000/live/1010/1010/160.ts
-#EXTINF:-1,FR_MTV_DANCE_FR
-http://151.80.27.59:8000/live/1010/1010/85.ts
-#EXTINF:-1,FR_CANAL_PLAY_1
-http://151.80.27.59:8000/live/1010/1010/1266.ts
-#EXTINF:-1,FR_CANAL_PLAY_2
-http://151.80.27.59:8000/live/1010/1010/1265.ts
-#EXTINF:-1,FR_CANAL_PLAY_3
-http://151.80.27.59:8000/live/1010/1010/1264.ts
-#EXTINF:-1,FR_CANAL_PLAY_4
-http://151.80.27.59:8000/live/1010/1010/1263.ts
-#EXTINF:-1,FR_CANAL_PLAY_5
-http://151.80.27.59:8000/live/1010/1010/1262.ts
-#EXTINF:-1,FR_CANAL_PLAY_6
-http://151.80.27.59:8000/live/1010/1010/1261.ts
-#EXTINF:-1,FR_CANAL_PLAY_7
-http://151.80.27.59:8000/live/1010/1010/1260.ts
-#EXTINF:-1,FR_CANAL_PLAY_8
-http://151.80.27.59:8000/live/1010/1010/1259.ts
-#EXTINF:-1,FR_CANAL_PLAY_9
-http://151.80.27.59:8000/live/1010/1010/1258.ts
-#EXTINF:-1,FR_CANAL_PLAY_10
-http://151.80.27.59:8000/live/1010/1010/1257.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://62.210.162.209:58080/live/mine/mine/1.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://62.210.162.209:58080/live/mine/mine/2.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://62.210.162.209:58080/live/mine/mine/3.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://62.210.162.209:58080/live/mine/mine/4.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://62.210.162.209:58080/live/mine/mine/5.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://62.210.162.209:58080/live/mine/mine/6.ts
+#EXTINF:-1,UK: Sky Sports News
+http://62.210.162.209:58080/live/mine/mine/7.ts
+#EXTINF:-1,UK: ESPN
+http://62.210.162.209:58080/live/mine/mine/8.ts
+#EXTINF:-1,UK: BT Sport 1
+http://62.210.162.209:58080/live/mine/mine/9.ts
+#EXTINF:-1,UK: BT Sport 2
+http://62.210.162.209:58080/live/mine/mine/10.ts
+#EXTINF:-1,UK: BT Sport Europe
+http://62.210.162.209:58080/live/mine/mine/11.ts
+#EXTINF:-1,UK: BT SPORT Extra
+http://62.210.162.209:58080/live/mine/mine/119.ts
+#EXTINF:-1,UK: British Eurosport
+http://62.210.162.209:58080/live/mine/mine/12.ts
+#EXTINF:-1,UK: British Eurosport 2
+http://62.210.162.209:58080/live/mine/mine/13.ts
+#EXTINF:-1,UK: Premier Sports
+http://62.210.162.209:58080/live/mine/mine/14.ts
+#EXTINF:-1,UK: Racing UK
+http://62.210.162.209:58080/live/mine/mine/15.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://62.210.162.209:58080/live/mine/mine/16.ts
+#EXTINF:-1,UK: Chelsea
+http://62.210.162.209:58080/live/mine/mine/17.ts
+#EXTINF:-1,UK: MUTV
+http://62.210.162.209:58080/live/mine/mine/18.ts
+#EXTINF:-1,UK: BoxNation
+http://62.210.162.209:58080/live/mine/mine/19.ts
+#EXTINF:-1,UK: Liverpool
+http://62.210.162.209:58080/live/mine/mine/20.ts
+#EXTINF:-1,UK: RealMadrid
+http://62.210.162.209:58080/live/mine/mine/21.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://62.210.162.209:58080/live/mine/mine/22.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://62.210.162.209:58080/live/mine/mine/23.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://62.210.162.209:58080/live/mine/mine/24.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://62.210.162.209:58080/live/mine/mine/25.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://62.210.162.209:58080/live/mine/mine/26.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://62.210.162.209:58080/live/mine/mine/27.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://62.210.162.209:58080/live/mine/mine/28.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://62.210.162.209:58080/live/mine/mine/29.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://62.210.162.209:58080/live/mine/mine/30.ts
+#EXTINF:-1,UK: BT Sport europe HD
+http://62.210.162.209:58080/live/mine/mine/31.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://62.210.162.209:58080/live/mine/mine/1926.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://62.210.162.209:58080/live/mine/mine/1913.ts
+#EXTINF:-1,UK: FIGHTBOX HD
+http://62.210.162.209:58080/live/mine/mine/1941.ts
+#EXTINF:-1,UK: At The Races UK
+http://62.210.162.209:58080/live/mine/mine/32.ts
+#EXTINF:-1,UK: Motor TV
+http://62.210.162.209:58080/live/mine/mine/86.ts
+#EXTINF:-1,UK: Sky Select
+http://62.210.162.209:58080/live/mine/mine/33.ts
+#EXTINF:-1,UK: Sky Scifi and horror
+http://62.210.162.209:58080/live/mine/mine/34.ts
+#EXTINF:-1,UK: Sky Premiere +1
+http://62.210.162.209:58080/live/mine/mine/35.ts
+#EXTINF:-1,UK: Sky Premiere
+http://62.210.162.209:58080/live/mine/mine/36.ts
+#EXTINF:-1,UK: Sky Monsters
+http://62.210.162.209:58080/live/mine/mine/37.ts
+#EXTINF:-1,UK: Sky Greats
+http://62.210.162.209:58080/live/mine/mine/38.ts
+#EXTINF:-1,UK: Sky Family
+http://62.210.162.209:58080/live/mine/mine/39.ts
+#EXTINF:-1,UK: Sky Drama
+http://62.210.162.209:58080/live/mine/mine/40.ts
+#EXTINF:-1,UK: Sky Action
+http://62.210.162.209:58080/live/mine/mine/41.ts
+#EXTINF:-1,UK: Sky Thriller
+http://62.210.162.209:58080/live/mine/mine/42.ts
+#EXTINF:-1,UK: Sky Comedy
+http://62.210.162.209:58080/live/mine/mine/43.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://62.210.162.209:58080/live/mine/mine/44.ts
+#EXTINF:-1,UK: Sky Atlantic +1
+http://62.210.162.209:58080/live/mine/mine/123.ts
+#EXTINF:-1,UK: Sky Movies ShowCase
+http://62.210.162.209:58080/live/mine/mine/100.ts
+#EXTINF:-1,UK: Sky One HD
+http://62.210.162.209:58080/live/mine/mine/45.ts
+#EXTINF:-1,UK: Sky One HD +1
+http://62.210.162.209:58080/live/mine/mine/1942.ts
+#EXTINF:-1,UK: Sky Two HD
+http://62.210.162.209:58080/live/mine/mine/46.ts
+#EXTINF:-1,UK: Sky Arts +1
+http://62.210.162.209:58080/live/mine/mine/47.ts
+#EXTINF:-1,UK: TCM
+http://62.210.162.209:58080/live/mine/mine/58.ts
+#EXTINF:-1,UK: TCM  +1
+http://62.210.162.209:58080/live/mine/mine/1924.ts
+#EXTINF:-1,UK: Horror Channel
+http://62.210.162.209:58080/live/mine/mine/122.ts
+#EXTINF:-1,UK: True Movies
+http://62.210.162.209:58080/live/mine/mine/55.ts
+#EXTINF:-1,UK: True Movies 2
+http://62.210.162.209:58080/live/mine/mine/56.ts
+#EXTINF:-1,UK: Sony Movie Channel
+http://62.210.162.209:58080/live/mine/mine/1937.ts
+#EXTINF:-1,UK: Sony Movie Channel +1
+http://62.210.162.209:58080/live/mine/mine/1944.ts
+#EXTINF:-1,UK: MOVIES24
+http://62.210.162.209:58080/live/mine/mine/1909.ts
+#EXTINF:-1,UK: Comedy Central
+http://62.210.162.209:58080/live/mine/mine/54.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://62.210.162.209:58080/live/mine/mine/1917.ts
+#EXTINF:-1,UK: RTEjr
+http://62.210.162.209:58080/live/mine/mine/1903.ts
+#EXTINF:-1,UK: RTE 1
+http://62.210.162.209:58080/live/mine/mine/72.ts
+#EXTINF:-1,UK: RTE 2
+http://62.210.162.209:58080/live/mine/mine/73.ts
+#EXTINF:-1,UK: Universal
+http://62.210.162.209:58080/live/mine/mine/1889.ts
+#EXTINF:-1,UK: Universal +1
+http://62.210.162.209:58080/live/mine/mine/124.ts
+#EXTINF:-1,UK: Film 4 UK
+http://62.210.162.209:58080/live/mine/mine/52.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://62.210.162.209:58080/live/mine/mine/87.ts
+#EXTINF:-1,UK: Fox
+http://62.210.162.209:58080/live/mine/mine/90.ts
+#EXTINF:-1,UK: Dmax
+http://62.210.162.209:58080/live/mine/mine/79.ts
+#EXTINF:-1,UK: E!
+http://62.210.162.209:58080/live/mine/mine/1900.ts
+#EXTINF:-1,UK: SyFy
+http://62.210.162.209:58080/live/mine/mine/51.ts
+#EXTINF:-1,UK: Syfy +1
+http://62.210.162.209:58080/live/mine/mine/121.ts
+#EXTINF:-1,UK: Dave
+http://62.210.162.209:58080/live/mine/mine/53.ts
+#EXTINF:-1,UK: Spike
+http://62.210.162.209:58080/live/mine/mine/1902.ts
+#EXTINF:-1,UK: Drama
+http://62.210.162.209:58080/live/mine/mine/1899.ts
+#EXTINF:-1,UK: Tru TV UK
+http://62.210.162.209:58080/live/mine/mine/1927.ts
+#EXTINF:-1,UK: CBS Action
+http://62.210.162.209:58080/live/mine/mine/1896.ts
+#EXTINF:-1,UK: CBS Drama
+http://62.210.162.209:58080/live/mine/mine/1895.ts
+#EXTINF:-1,UK: CBS Reality
+http://62.210.162.209:58080/live/mine/mine/1894.ts
+#EXTINF:-1,UK: CBS Reality+
+http://62.210.162.209:58080/live/mine/mine/120.ts
+#EXTINF:-1,UK: Utv
+http://62.210.162.209:58080/live/mine/mine/1932.ts
+#EXTINF:-1,UK: UTV Ireland
+http://62.210.162.209:58080/live/mine/mine/1901.ts
+#EXTINF:-1,UK: BET
+http://62.210.162.209:58080/live/mine/mine/1951.ts
+#EXTINF:-1,UK: BBC Entertainment
+http://62.210.162.209:58080/live/mine/mine/1893.ts
+#EXTINF:-1,UK: BBC One HD
+http://62.210.162.209:58080/live/mine/mine/59.ts
+#EXTINF:-1,UK: BBC2 HD
+http://62.210.162.209:58080/live/mine/mine/60.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://62.210.162.209:58080/live/mine/mine/61.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://62.210.162.209:58080/live/mine/mine/62.ts
+#EXTINF:-1,UK: BBC News
+http://62.210.162.209:58080/live/mine/mine/63.ts
+#EXTINF:-1,UK: ITV Encore
+http://62.210.162.209:58080/live/mine/mine/64.ts
+#EXTINF:-1,UK: ITV BE
+http://62.210.162.209:58080/live/mine/mine/65.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://62.210.162.209:58080/live/mine/mine/66.ts
+#EXTINF:-1,UK: ITV One SD
+http://62.210.162.209:58080/live/mine/mine/67.ts
+#EXTINF:-1,UK: ITV One  +1
+http://62.210.162.209:58080/live/mine/mine/68.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://62.210.162.209:58080/live/mine/mine/69.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://62.210.162.209:58080/live/mine/mine/70.ts
+#EXTINF:-1,UK: ITV 4 HD
+http://62.210.162.209:58080/live/mine/mine/71.ts
+#EXTINF:-1,UK: Yesterday
+http://62.210.162.209:58080/live/mine/mine/57.ts
+#EXTINF:-1,UK: More4
+http://62.210.162.209:58080/live/mine/mine/75.ts
+#EXTINF:-1,UK: Sky Living
+http://62.210.162.209:58080/live/mine/mine/76.ts
+#EXTINF:-1,UK: Sky Living +1
+http://62.210.162.209:58080/live/mine/mine/1943.ts
+#EXTINF:-1,UK: REAL Lives
+http://62.210.162.209:58080/live/mine/mine/1907.ts
+#EXTINF:-1,UK: Alibi
+http://62.210.162.209:58080/live/mine/mine/84.ts
+#EXTINF:-1,UK: Alibi +1
+http://62.210.162.209:58080/live/mine/mine/1934.ts
+#EXTINF:-1,UK: TV3
+http://62.210.162.209:58080/live/mine/mine/48.ts
+#EXTINF:-1,UK: Home
+http://62.210.162.209:58080/live/mine/mine/77.ts
+#EXTINF:-1,UK: Gold
+http://62.210.162.209:58080/live/mine/mine/78.ts
+#EXTINF:-1,UK: Channel5
+http://62.210.162.209:58080/live/mine/mine/80.ts
+#EXTINF:-1,UK: Channel 5 USA
+http://62.210.162.209:58080/live/mine/mine/81.ts
+#EXTINF:-1,UK: Channel 5Star
+http://62.210.162.209:58080/live/mine/mine/82.ts
+#EXTINF:-1,UK: Channel4 HD
+http://62.210.162.209:58080/live/mine/mine/83.ts
+#EXTINF:-1,UK: Pick TV
+http://62.210.162.209:58080/live/mine/mine/85.ts
+#EXTINF:-1,UK: 3E
+http://62.210.162.209:58080/live/mine/mine/1888.ts
+#EXTINF:-1,UK: TV3 IE
+http://62.210.162.209:58080/live/mine/mine/1887.ts
+#EXTINF:-1,UK: E4
+http://62.210.162.209:58080/live/mine/mine/88.ts
+#EXTINF:-1,UK: Watch
+http://62.210.162.209:58080/live/mine/mine/49.ts
+#EXTINF:-1,UK: Vintage TV
+http://62.210.162.209:58080/live/mine/mine/1949.ts
+#EXTINF:-1,UK: Quest
+http://62.210.162.209:58080/live/mine/mine/1898.ts
+#EXTINF:-1,UK: Five
+http://62.210.162.209:58080/live/mine/mine/1897.ts
+#EXTINF:-1,UK: AKA
+http://62.210.162.209:58080/live/mine/mine/1948.ts
+#EXTINF:-1,UK: CITV
+http://62.210.162.209:58080/live/mine/mine/1933.ts
+#EXTINF:-1,UK: Lifetime
+http://62.210.162.209:58080/live/mine/mine/1925.ts
+#EXTINF:-1,UK: iConcerts HD
+http://62.210.162.209:58080/live/mine/mine/1947.ts
+#EXTINF:-1,UK: Nautical HD
+http://62.210.162.209:58080/live/mine/mine/1945.ts
+#EXTINF:-1,UK: REALLY
+http://62.210.162.209:58080/live/mine/mine/1908.ts
+#EXTINF:-1,UK: The Vault
+http://62.210.162.209:58080/live/mine/mine/1906.ts
+#EXTINF:-1,UK: Eden
+http://62.210.162.209:58080/live/mine/mine/1905.ts
+#EXTINF:-1,UK: Magic
+http://62.210.162.209:58080/live/mine/mine/1910.ts
+#EXTINF:-1,UK: Cartoon Network
+http://62.210.162.209:58080/live/mine/mine/89.ts
+#EXTINF:-1,UK: Nicktoons
+http://62.210.162.209:58080/live/mine/mine/91.ts
+#EXTINF:-1,UK: Nickelodeon Jr
+http://62.210.162.209:58080/live/mine/mine/92.ts
+#EXTINF:-1,UK: Nickelodeon
+http://62.210.162.209:58080/live/mine/mine/93.ts
+#EXTINF:-1,UK: Baby Tv
+http://62.210.162.209:58080/live/mine/mine/94.ts
+#EXTINF:-1,UK: Boomerang
+http://62.210.162.209:58080/live/mine/mine/95.ts
+#EXTINF:-1,UK: NickJr Too
+http://62.210.162.209:58080/live/mine/mine/1916.ts
+#EXTINF:-1,UK: Sky Disney
+http://62.210.162.209:58080/live/mine/mine/96.ts
+#EXTINF:-1,UK: Disney Channel
+http://62.210.162.209:58080/live/mine/mine/97.ts
+#EXTINF:-1,UK: Disney Channel +1
+http://62.210.162.209:58080/live/mine/mine/125.ts
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://62.210.162.209:58080/live/mine/mine/98.ts
+#EXTINF:-1,UK: Disney Junior +1
+http://62.210.162.209:58080/live/mine/mine/127.ts
+#EXTINF:-1,UK: Disney XD
+http://62.210.162.209:58080/live/mine/mine/99.ts
+#EXTINF:-1,UK: Disney XD +1
+http://62.210.162.209:58080/live/mine/mine/126.ts
+#EXTINF:-1,UK: Viva
+http://62.210.162.209:58080/live/mine/mine/1928.ts
+#EXTINF:-1,UK: Vh1
+http://62.210.162.209:58080/live/mine/mine/115.ts
+#EXTINF:-1,UK: MTV
+http://62.210.162.209:58080/live/mine/mine/116.ts
+#EXTINF:-1,UK: MTV Music
+http://62.210.162.209:58080/live/mine/mine/117.ts
+#EXTINF:-1,UK: MTV Hits
+http://62.210.162.209:58080/live/mine/mine/118.ts
+#EXTINF:-1,UK: MTV Live HD
+http://62.210.162.209:58080/live/mine/mine/1923.ts
+#EXTINF:-1,UK: MTV +1
+http://62.210.162.209:58080/live/mine/mine/1922.ts
+#EXTINF:-1,UK: MTV Base
+http://62.210.162.209:58080/live/mine/mine/1921.ts
+#EXTINF:-1,UK: MTV Dance
+http://62.210.162.209:58080/live/mine/mine/1920.ts
+#EXTINF:-1,UK: MTV Rocks
+http://62.210.162.209:58080/live/mine/mine/1919.ts
+#EXTINF:-1,UK: MTV Classic
+http://62.210.162.209:58080/live/mine/mine/1918.ts
+#EXTINF:-1,UK: Nat Geo Channel
+http://62.210.162.209:58080/live/mine/mine/102.ts
+#EXTINF:-1,UK: Animal planet
+http://62.210.162.209:58080/live/mine/mine/1890.ts
+#EXTINF:-1,UK: Travel Channe +1
+http://62.210.162.209:58080/live/mine/mine/1950.ts
+#EXTINF:-1,UK: ID Xtra HD
+http://62.210.162.209:58080/live/mine/mine/1946.ts
+#EXTINF:-1,UK: Crime Investigation
+http://62.210.162.209:58080/live/mine/mine/1939.ts
+#EXTINF:-1,UK: Fine Living Network
+http://62.210.162.209:58080/live/mine/mine/1938.ts
+#EXTINF:-1,UK: National Geography Wild
+http://62.210.162.209:58080/live/mine/mine/101.ts
+#EXTINF:-1,UK: National Geographic HD
+http://62.210.162.209:58080/live/mine/mine/1931.ts
+#EXTINF:-1,UK:  NatGeo Wild HD
+http://62.210.162.209:58080/live/mine/mine/1930.ts
+#EXTINF:-1,UK: Horse and Country
+http://62.210.162.209:58080/live/mine/mine/1929.ts
+#EXTINF:-1,UK: Animal Planet HD
+http://62.210.162.209:58080/live/mine/mine/1915.ts
+#EXTINF:-1,UK: H2
+http://62.210.162.209:58080/live/mine/mine/50.ts
+#EXTINF:-1,UK: Discovery Channel
+http://62.210.162.209:58080/live/mine/mine/104.ts
+#EXTINF:-1,UK: Discovery +1
+http://62.210.162.209:58080/live/mine/mine/1914.ts
+#EXTINF:-1,UK: Discovery Home & Health
+http://62.210.162.209:58080/live/mine/mine/1912.ts
+#EXTINF:-1,UK: Discovery Shed
+http://62.210.162.209:58080/live/mine/mine/1911.ts
+#EXTINF:-1,UK: Discovery History
+http://62.210.162.209:58080/live/mine/mine/105.ts
+#EXTINF:-1,UK: Discovery Science
+http://62.210.162.209:58080/live/mine/mine/106.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://62.210.162.209:58080/live/mine/mine/107.ts
+#EXTINF:-1,UK: Investion Discovery
+http://62.210.162.209:58080/live/mine/mine/103.ts
+#EXTINF:-1,UK: TLC
+http://62.210.162.209:58080/live/mine/mine/108.ts
+#EXTINF:-1,UK: History Channel
+http://62.210.162.209:58080/live/mine/mine/109.ts
+#EXTINF:-1,UK: Travel Channel
+http://62.210.162.209:58080/live/mine/mine/110.ts
+#EXTINF:-1,UK: Food Network
+http://62.210.162.209:58080/live/mine/mine/111.ts
+#EXTINF:-1,UK: TG4
+http://62.210.162.209:58080/live/mine/mine/74.ts
+#EXTINF:-1,UK: RT News
+http://62.210.162.209:58080/live/mine/mine/1935.ts
+#EXTINF:-1,UK: SkyNews
+http://62.210.162.209:58080/live/mine/mine/112.ts
+#EXTINF:-1,UK: Fox News
+http://62.210.162.209:58080/live/mine/mine/1904.ts
+#EXTINF:-1,UK: Discovery Sci HD
+http://62.210.162.209:58080/live/mine/mine/1940.ts
+#EXTINF:-1,UK: NHK News
+http://62.210.162.209:58080/live/mine/mine/1936.ts
+#EXTINF:-1,UK: Bloomberg
+http://62.210.162.209:58080/live/mine/mine/114.ts
+#EXTINF:-1,UK: Cnn Int
+http://62.210.162.209:58080/live/mine/mine/113.ts
+#EXTINF:-1,SG: Mio Sports 1 HD
+http://62.210.162.209:58080/live/mine/mine/1035.ts
+#EXTINF:-1,SG: Mio Sports 2 HD
+http://62.210.162.209:58080/live/mine/mine/1036.ts
+#EXTINF:-1,SG: Mio Sports 3 HD
+http://62.210.162.209:58080/live/mine/mine/1037.ts
+#EXTINF:-1,SG: Mio Sports 4 HD
+http://62.210.162.209:58080/live/mine/mine/1038.ts
+#EXTINF:-1,SG: Mio Sports 5 HD
+http://62.210.162.209:58080/live/mine/mine/1039.ts
+#EXTINF:-1,SG: Mio Sports 6 HD
+http://62.210.162.209:58080/live/mine/mine/1040.ts
+#EXTINF:-1,SG: Mio Sports 7 HD
+http://62.210.162.209:58080/live/mine/mine/1041.ts
+#EXTINF:-1,SG: Mio Sports 8 HD
+http://62.210.162.209:58080/live/mine/mine/1086.ts
+#EXTINF:-1,US: Astro SuperSport 1
+http://62.210.162.209:58080/live/mine/mine/1031.ts
+#EXTINF:-1,US: Astro SuperSport 2
+http://62.210.162.209:58080/live/mine/mine/1032.ts
+#EXTINF:-1,US: Astro SuperSport 3
+http://62.210.162.209:58080/live/mine/mine/1033.ts
+#EXTINF:-1,US: Astro SuperSport 4
+http://62.210.162.209:58080/live/mine/mine/1034.ts
+#EXTINF:-1,US: TSN 1
+http://62.210.162.209:58080/live/mine/mine/1042.ts
+#EXTINF:-1,US: TSN 2
+http://62.210.162.209:58080/live/mine/mine/1043.ts
+#EXTINF:-1,US: TSN 3
+http://62.210.162.209:58080/live/mine/mine/1044.ts
+#EXTINF:-1,US:  TSN 4
+http://62.210.162.209:58080/live/mine/mine/1045.ts
+#EXTINF:-1,US:  TSN 5
+http://62.210.162.209:58080/live/mine/mine/1046.ts
+#EXTINF:-1,US: SportsNet One HD
+http://62.210.162.209:58080/live/mine/mine/2065.ts
+#EXTINF:-1,US: SportsNet Ontario
+http://62.210.162.209:58080/live/mine/mine/2064.ts
+#EXTINF:-1,US: SportsNet World HD
+http://62.210.162.209:58080/live/mine/mine/2063.ts
+#EXTINF:-1,US: SportsNet 360
+http://62.210.162.209:58080/live/mine/mine/2066.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://62.210.162.209:58080/live/mine/mine/1066.ts
+#EXTINF:-1,US: FOX Sport 1
+http://62.210.162.209:58080/live/mine/mine/1050.ts
+#EXTINF:-1,US: FOX Sport 2
+http://62.210.162.209:58080/live/mine/mine/1051.ts
+#EXTINF:-1,US: ESPN
+http://62.210.162.209:58080/live/mine/mine/1053.ts
+#EXTINF:-1,US: ESPN2
+http://62.210.162.209:58080/live/mine/mine/1052.ts
+#EXTINF:-1,US: NBA TV
+http://62.210.162.209:58080/live/mine/mine/1047.ts
+#EXTINF:-1,US: NBC SPORT
+http://62.210.162.209:58080/live/mine/mine/1048.ts
+#EXTINF:-1,US: NBC GOLF
+http://62.210.162.209:58080/live/mine/mine/1049.ts
+#EXTINF:-1,US: NFL Network HD
+http://62.210.162.209:58080/live/mine/mine/1054.ts
+#EXTINF:-1,US: NHL Network
+http://62.210.162.209:58080/live/mine/mine/1106.ts
+#EXTINF:-1,US: W*E Network HD
+http://62.210.162.209:58080/live/mine/mine/1099.ts
+#EXTINF:-1,US:  HBO HD
+http://62.210.162.209:58080/live/mine/mine/1056.ts
+#EXTINF:-1,US: HBO Signature HD
+http://62.210.162.209:58080/live/mine/mine/1057.ts
+#EXTINF:-1,US:  HBO East HD
+http://62.210.162.209:58080/live/mine/mine/1058.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://62.210.162.209:58080/live/mine/mine/1059.ts
+#EXTINF:-1,US: HBO2 EAST
+http://62.210.162.209:58080/live/mine/mine/1094.ts
+#EXTINF:-1,US: Cinemax East
+http://62.210.162.209:58080/live/mine/mine/1068.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://62.210.162.209:58080/live/mine/mine/1067.ts
+#EXTINF:-1,US: Cinemax ActionMax East
+http://62.210.162.209:58080/live/mine/mine/1069.ts
+#EXTINF:-1,US: Cinemax Moremax
+http://62.210.162.209:58080/live/mine/mine/1070.ts
+#EXTINF:-1,US: STARZ CINEMA HD
+http://62.210.162.209:58080/live/mine/mine/1075.ts
+#EXTINF:-1,US: Starz Comedy
+http://62.210.162.209:58080/live/mine/mine/1072.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://62.210.162.209:58080/live/mine/mine/1073.ts
+#EXTINF:-1,US: ShowTime
+http://62.210.162.209:58080/live/mine/mine/1063.ts
+#EXTINF:-1,US: Showtime Extreme
+http://62.210.162.209:58080/live/mine/mine/1074.ts
+#EXTINF:-1,US: Showtime Showcase
+http://62.210.162.209:58080/live/mine/mine/1087.ts
+#EXTINF:-1,US: Showtime Next
+http://62.210.162.209:58080/live/mine/mine/1060.ts
+#EXTINF:-1,US: Hallmark Channel HD
+http://62.210.162.209:58080/live/mine/mine/1088.ts
+#EXTINF:-1,US: FX
+http://62.210.162.209:58080/live/mine/mine/1061.ts
+#EXTINF:-1,US: Spike
+http://62.210.162.209:58080/live/mine/mine/1062.ts
+#EXTINF:-1,US: TNT
+http://62.210.162.209:58080/live/mine/mine/1096.ts
+#EXTINF:-1,US: AMC
+http://62.210.162.209:58080/live/mine/mine/1097.ts
+#EXTINF:-1,US: TBS
+http://62.210.162.209:58080/live/mine/mine/1098.ts
+#EXTINF:-1,US: SYFY
+http://62.210.162.209:58080/live/mine/mine/1095.ts
+#EXTINF:-1,US: Bravo HD
+http://62.210.162.209:58080/live/mine/mine/1055.ts
+#EXTINF:-1,US: KTLA /CW
+http://62.210.162.209:58080/live/mine/mine/1089.ts
+#EXTINF:-1,US: BYU TV
+http://62.210.162.209:58080/live/mine/mine/1085.ts
+#EXTINF:-1,US: FOX
+http://62.210.162.209:58080/live/mine/mine/1101.ts
+#EXTINF:-1,US: CW
+http://62.210.162.209:58080/live/mine/mine/1071.ts
+#EXTINF:-1,US: E!
+http://62.210.162.209:58080/live/mine/mine/1102.ts
+#EXTINF:-1,US: Fox HD
+http://62.210.162.209:58080/live/mine/mine/1093.ts
+#EXTINF:-1,US: Cartoon Network
+http://62.210.162.209:58080/live/mine/mine/1103.ts
+#EXTINF:-1,US: Toonami Aftermath
+http://62.210.162.209:58080/live/mine/mine/1105.ts
+#EXTINF:-1,US: Nick
+http://62.210.162.209:58080/live/mine/mine/1064.ts
+#EXTINF:-1,US: FreeRom HD
+http://62.210.162.209:58080/live/mine/mine/1065.ts
+#EXTINF:-1,US: Food Network HD
+http://62.210.162.209:58080/live/mine/mine/1084.ts
+#EXTINF:-1,US: Travel Channel
+http://62.210.162.209:58080/live/mine/mine/1100.ts
+#EXTINF:-1,US: National Geographic
+http://62.210.162.209:58080/live/mine/mine/1076.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://62.210.162.209:58080/live/mine/mine/1080.ts
+#EXTINF:-1,US: Discovery Science HD
+http://62.210.162.209:58080/live/mine/mine/1081.ts
+#EXTINF:-1,US: Investigation Discovery
+http://62.210.162.209:58080/live/mine/mine/1082.ts
+#EXTINF:-1,US: Animal Planet HD
+http://62.210.162.209:58080/live/mine/mine/1078.ts
+#EXTINF:-1,US: HISTORY
+http://62.210.162.209:58080/live/mine/mine/1077.ts
+#EXTINF:-1,US: DIY Network
+http://62.210.162.209:58080/live/mine/mine/1079.ts
+#EXTINF:-1,US: A&E
+http://62.210.162.209:58080/live/mine/mine/1083.ts
+#EXTINF:-1,US: CNN
+http://62.210.162.209:58080/live/mine/mine/1107.ts
+#EXTINF:-1,US: CNBC
+http://62.210.162.209:58080/live/mine/mine/1090.ts
+#EXTINF:-1,US: ABC
+http://62.210.162.209:58080/live/mine/mine/1092.ts
+#EXTINF:-1,US: ABC News
+http://62.210.162.209:58080/live/mine/mine/1091.ts
+#EXTINF:-1,US:  Bloomberg
+http://62.210.162.209:58080/live/mine/mine/1108.ts
+#EXTINF:-1,US: WGN
+http://62.210.162.209:58080/live/mine/mine/1104.ts
+#EXTINF:-1,FR:Arte
+http://kiptv3.ddns.net:8000/live/rossin/rossin/145.ts
+#EXTINF:-1,FR: FRANCE O
+http://kiptv3.ddns.net:8000/live/rossin/rossin/95.ts
+#EXTINF:-1,FR:TF1
+http://kiptv3.ddns.net:8000/live/rossin/rossin/1.ts
+#EXTINF:-1,FR: FRANCE 2
+http://kiptv3.ddns.net:8000/live/rossin/rossin/91.ts
+#EXTINF:-1,FR: FRANCE 3
+http://kiptv3.ddns.net:8000/live/rossin/rossin/92.ts
+#EXTINF:-1,FR: FRANCE 4
+http://kiptv3.ddns.net:8000/live/rossin/rossin/93.ts
+#EXTINF:-1,FR: FRANCE 5
+http://kiptv3.ddns.net:8000/live/rossin/rossin/94.ts
+#EXTINF:-1,FR: M6
+http://kiptv3.ddns.net:8000/live/rossin/rossin/96.ts
+#EXTINF:-1,FR:RTL9
+http://kiptv3.ddns.net:8000/live/rossin/rossin/129.ts
+#EXTINF:-1,FR:W9
+http://kiptv3.ddns.net:8000/live/rossin/rossin/135.ts
+#EXTINF:-1,FR:C8
+http://kiptv3.ddns.net:8000/live/rossin/rossin/123.ts
+#EXTINF:-1,FR:Cstar
+http://kiptv3.ddns.net:8000/live/rossin/rossin/125.ts
+#EXTINF:-1,FR:6TER-HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/122.ts
+#EXTINF:-1,FR: SYFY HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/120.ts
+#EXTINF:-1,FR:NT-1
+http://kiptv3.ddns.net:8000/live/rossin/rossin/131.ts
+#EXTINF:-1,FR: NRJ12
+http://kiptv3.ddns.net:8000/live/rossin/rossin/194.ts
+#EXTINF:-1,FR:TV-BREIZH
+http://kiptv3.ddns.net:8000/live/rossin/rossin/126.ts
+#EXTINF:-1,FR: 13 Eme RUE HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/119.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/193.ts
+#EXTINF:-1,FR:SERIE_CLUB_HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/212.ts
+#EXTINF:-1,FR:PARIS-PREMIERE
+http://kiptv3.ddns.net:8000/live/rossin/rossin/128.ts
+#EXTINF:-1,FR:PARAMOUNT CHANNEL HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/127.ts
+#EXTINF:-1,FR:AB1
+http://kiptv3.ddns.net:8000/live/rossin/rossin/124.ts
+#EXTINF:-1,FR: AB3
+http://kiptv3.ddns.net:8000/live/rossin/rossin/192.ts
+#EXTINF:-1,FR:TMC
+http://kiptv3.ddns.net:8000/live/rossin/rossin/130.ts
+#EXTINF:-1,FR:Action
+http://kiptv3.ddns.net:8000/live/rossin/rossin/132.ts
+#EXTINF:-1,FR:CHERIE 25
+http://kiptv3.ddns.net:8000/live/rossin/rossin/180.ts
+#EXTINF:-1,FR: CH_RTS UN
+http://kiptv3.ddns.net:8000/live/rossin/rossin/422.ts
+#EXTINF:-1,FR: CH_RTS DEUX
+http://kiptv3.ddns.net:8000/live/rossin/rossin/423.ts
+#EXTINF:-1,#####--Canal+--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/173.ts
+#EXTINF:-1,FR: CANAL HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/109.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/111.ts
+#EXTINF:-1,FR: CANAL FAMILY
+http://kiptv3.ddns.net:8000/live/rossin/rossin/110.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/112.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/113.ts
+#EXTINF:-1,FR: CANAL SERIE
+http://kiptv3.ddns.net:8000/live/rossin/rossin/114.ts
+#EXTINF:-1,FR: CINE FRISSON
+http://kiptv3.ddns.net:8000/live/rossin/rossin/118.ts
+#EXTINF:-1,FR: CINE FAMIZ
+http://kiptv3.ddns.net:8000/live/rossin/rossin/115.ts
+#EXTINF:-1,FR: CINE + FX
+http://kiptv3.ddns.net:8000/live/rossin/rossin/421.ts
+#EXTINF:-1,FR: CINE EMOTION
+http://kiptv3.ddns.net:8000/live/rossin/rossin/117.ts
+#EXTINF:-1,FR: CINE  PREMIER HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/116.ts
+#EXTINF:-1,FR:FR:CINE_POLAR
+http://kiptv3.ddns.net:8000/live/rossin/rossin/483.ts
+#EXTINF:-1,FR:Comedie+
+http://kiptv3.ddns.net:8000/live/rossin/rossin/358.ts
+#EXTINF:-1,#####--Documentaires--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/174.ts
+#EXTINF:-1,FR:Planéte+
+http://kiptv3.ddns.net:8000/live/rossin/rossin/139.ts
+#EXTINF:-1,FR:Planéte-CI
+http://kiptv3.ddns.net:8000/live/rossin/rossin/140.ts
+#EXTINF:-1,FR:Planete A&E HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/141.ts
+#EXTINF:-1,FR:National-Geographic-HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/137.ts
+#EXTINF:-1,FR:NatGeo-Wild-HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/138.ts
+#EXTINF:-1,FR: Discovery
+http://kiptv3.ddns.net:8000/live/rossin/rossin/121.ts
+#EXTINF:-1,FR:Discovery-Science
+http://kiptv3.ddns.net:8000/live/rossin/rossin/136.ts
+#EXTINF:-1,FR:Histoire
+http://kiptv3.ddns.net:8000/live/rossin/rossin/147.ts
+#EXTINF:-1,FR:Toute L'histoire
+http://kiptv3.ddns.net:8000/live/rossin/rossin/144.ts
+#EXTINF:-1,#####--Découvertes--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/176.ts
+#EXTINF:-1,FR:VOYAGE
+http://kiptv3.ddns.net:8000/live/rossin/rossin/142.ts
+#EXTINF:-1,FR:UshuaiaTV
+http://kiptv3.ddns.net:8000/live/rossin/rossin/149.ts
+#EXTINF:-1,FR:RMC_DECOUVERTE
+http://kiptv3.ddns.net:8000/live/rossin/rossin/148.ts
+#EXTINF:-1,FR:Animaux
+http://kiptv3.ddns.net:8000/live/rossin/rossin/146.ts
+#EXTINF:-1,FR:Chasse & Pèche
+http://kiptv3.ddns.net:8000/live/rossin/rossin/143.ts
+#EXTINF:-1,#####--Enfants--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/177.ts
+#EXTINF:-1,FR:Piwi+
+http://kiptv3.ddns.net:8000/live/rossin/rossin/152.ts
+#EXTINF:-1,FR:GULLI
+http://kiptv3.ddns.net:8000/live/rossin/rossin/162.ts
+#EXTINF:-1,FR:Zouzou_TV
+http://kiptv3.ddns.net:8000/live/rossin/rossin/154.ts
+#EXTINF:-1,FR:Nicklodeon
+http://kiptv3.ddns.net:8000/live/rossin/rossin/153.ts
+#EXTINF:-1,FR:DISNEY XD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/160.ts
+#EXTINF:-1,FR:NICKLODEON-JUNIOR
+http://kiptv3.ddns.net:8000/live/rossin/rossin/157.ts
+#EXTINF:-1,FR:CARTOON_NETWORK_HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/156.ts
+#EXTINF:-1,FR:MANGAS
+http://kiptv3.ddns.net:8000/live/rossin/rossin/161.ts
+#EXTINF:-1,FR:CANAL-J
+http://kiptv3.ddns.net:8000/live/rossin/rossin/158.ts
+#EXTINF:-1,FR1:TIJI
+http://kiptv3.ddns.net:8000/live/rossin/rossin/150.ts
+#EXTINF:-1,FR:TELETOON+
+http://kiptv3.ddns.net:8000/live/rossin/rossin/151.ts
+#EXTINF:-1,FR:BOOMERANG-HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/155.ts
+#EXTINF:-1,FR:BOING
+http://kiptv3.ddns.net:8000/live/rossin/rossin/159.ts
+#EXTINF:-1,#####--Informations--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/175.ts
+#EXTINF:-1,FR:LCP
+http://kiptv3.ddns.net:8000/live/rossin/rossin/186.ts
+#EXTINF:-1,FR:LCI
+http://kiptv3.ddns.net:8000/live/rossin/rossin/185.ts
+#EXTINF:-1,FR:Itele
+http://kiptv3.ddns.net:8000/live/rossin/rossin/184.ts
+#EXTINF:-1,FR:France-24
+http://kiptv3.ddns.net:8000/live/rossin/rossin/182.ts
+#EXTINF:-1,FR:EURONEWS
+http://kiptv3.ddns.net:8000/live/rossin/rossin/183.ts
+#EXTINF:-1,FR:BFMTV
+http://kiptv3.ddns.net:8000/live/rossin/rossin/181.ts
+#EXTINF:-1,FR:WEO
+http://kiptv3.ddns.net:8000/live/rossin/rossin/410.ts
+#EXTINF:-1,#####--Orange--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/179.ts
+#EXTINF:-1,FR:ORANGE-DOCUMENTAIRE
+http://kiptv3.ddns.net:8000/live/rossin/rossin/168.ts
+#EXTINF:-1,FR:ORANGE-CINE-HORREUR
+http://kiptv3.ddns.net:8000/live/rossin/rossin/165.ts
+#EXTINF:-1,FR:OCS COMMENT C'EST FAIT HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/167.ts
+#EXTINF:-1,FR:ORANGE-CINE-AVENTURE
+http://kiptv3.ddns.net:8000/live/rossin/rossin/166.ts
+#EXTINF:-1,FR:ORANGE-CINE-ACTION
+http://kiptv3.ddns.net:8000/live/rossin/rossin/164.ts
+#EXTINF:-1,FR:ORANGE-CINE+
+http://kiptv3.ddns.net:8000/live/rossin/rossin/163.ts
+#EXTINF:-1,FR:OCS-Max-HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/171.ts
+#EXTINF:-1,FR:OCS-CityHD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/169.ts
+#EXTINF:-1,FR:OCS-CHOC
+http://kiptv3.ddns.net:8000/live/rossin/rossin/170.ts
+#EXTINF:-1,#####--Musiques--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/178.ts
+#EXTINF:-1,FR2:M6-MUSIC
+http://kiptv3.ddns.net:8000/live/rossin/rossin/133.ts
+#EXTINF:-1,FR:VIRGIN
+http://kiptv3.ddns.net:8000/live/rossin/rossin/134.ts
+#EXTINF:-1,FR:MTV Hits
+http://kiptv3.ddns.net:8000/live/rossin/rossin/376.ts
+#EXTINF:-1,#####--Sports--######
+http://kiptv3.ddns.net:8000/live/rossin/rossin/201.ts
+#EXTINF:-1,FR: L'EQUIPE21
+http://kiptv3.ddns.net:8000/live/rossin/rossin/209.ts
+#EXTINF:-1,FR:Foot+_24/24
+http://kiptv3.ddns.net:8000/live/rossin/rossin/407.ts
+#EXTINF:-1,FR:EQUIDIA_LIVE
+http://kiptv3.ddns.net:8000/live/rossin/rossin/408.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://kiptv3.ddns.net:8000/live/rossin/rossin/208.ts
+#EXTINF:-1,FR: EUROSPORT2
+http://kiptv3.ddns.net:8000/live/rossin/rossin/210.ts
+#EXTINF:-1,FR: BeIN SPORTS 1 HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/205.ts
+#EXTINF:-1,FR: BeIN SPORTS 2 HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/206.ts
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/207.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://kiptv3.ddns.net:8000/live/rossin/rossin/202.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://kiptv3.ddns.net:8000/live/rossin/rossin/203.ts
+#EXTINF:-1,FR: SFR Sport 3
+http://kiptv3.ddns.net:8000/live/rossin/rossin/204.ts
+#EXTINF:-1,FR:AB_MOTEUR_HD
+http://kiptv3.ddns.net:8000/live/rossin/rossin/279.ts
