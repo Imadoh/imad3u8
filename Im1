@@ -1,203 +1,754 @@
-#EXTINF:0,US: Astro SuperSport 1
-http://62.210.162.209:58080/live/mine/mine/1031.ts
-#EXTINF:0,US: Astro SuperSport 2
-http://62.210.162.209:58080/live/mine/mine/1032.ts
-#EXTINF:0,US: Astro SuperSport 3
-http://62.210.162.209:58080/live/mine/mine/1033.ts
-#EXTINF:0,US: Astro SuperSport 4
-http://62.210.162.209:58080/live/mine/mine/1034.ts
-#EXTINF:0,US: SportsNet One HD
-http://62.210.162.209:58080/live/mine/mine/2065.ts
-#EXTINF:0,US: SportsNet Ontario
-http://62.210.162.209:58080/live/mine/mine/2064.ts
-#EXTINF:0,US: SportsNet World HD
-http://62.210.162.209:58080/live/mine/mine/2063.ts
-#EXTINF:0,US: SportsNet 360
-http://62.210.162.209:58080/live/mine/mine/2066.ts
-#EXTINF:0,US: Bein Sports USA HD
-http://62.210.162.209:58080/live/mine/mine/1066.ts
-#EXTINF:0,US: FOX Sport 1
-http://62.210.162.209:58080/live/mine/mine/1050.ts
-#EXTINF:0,US: FOX Sport 2
-http://62.210.162.209:58080/live/mine/mine/1051.ts
-#EXTINF:0,US: ESPN
-http://62.210.162.209:58080/live/mine/mine/1053.ts
-#EXTINF:0,US: ESPN2
-http://62.210.162.209:58080/live/mine/mine/1052.ts
-#EXTINF:0,US: NBA TV
-http://62.210.162.209:58080/live/mine/mine/1047.ts
-#EXTINF:0,US: NBC SPORT
-http://62.210.162.209:58080/live/mine/mine/1048.ts
-#EXTINF:0,UK: BoxNation
-http://62.210.162.209:58080/live/mine/mine/19.ts
-#EXTINF:0,UK: Liverpool
-http://62.210.162.209:58080/live/mine/mine/20.ts
-#EXTINF:0,UK: RealMadrid
-http://62.210.162.209:58080/live/mine/mine/21.ts
-#EXTINF:0,UK: Sky Sports 1 HD
-http://62.210.162.209:58080/live/mine/mine/22.ts
-#EXTINF:0,UK: Sky Sports 2 HD
-http://62.210.162.209:58080/live/mine/mine/23.ts
-#EXTINF:0,UK: Sky Sports 3 HD
-http://62.210.162.209:58080/live/mine/mine/24.ts
-#EXTINF:0,UK: Sky Sports 4 HD
-http://62.210.162.209:58080/live/mine/mine/25.ts
-#EXTINF:0,UK: Sky Sports 5 HD
-http://62.210.162.209:58080/live/mine/mine/26.ts
-#EXTINF:0,UK: Sky Sports News HD
-http://62.210.162.209:58080/live/mine/mine/27.ts
-#EXTINF:0,UK: Sky Sports F1 HD
-http://62.210.162.209:58080/live/mine/mine/28.ts
-#EXTINF:0,UK: BT Sport 1 HD
-http://62.210.162.209:58080/live/mine/mine/29.ts
-#EXTINF:0,UK: BT Sport 2 HD
-http://62.210.162.209:58080/live/mine/mine/30.ts
-#EXTINF:0,UK: BT Sport europe HD
-http://62.210.162.209:58080/live/mine/mine/31.ts
-#EXTINF:0,UK: Eurosport 1 HD
-http://62.210.162.209:58080/live/mine/mine/1926.ts
-#EXTINF:0,UK: Eurosport 2 HD
-http://62.210.162.209:58080/live/mine/mine/1913.ts
-#EXTINF:0,PT: Benfica TV HD
-http://62.210.162.209:58080/live/mine/mine/428.ts
-#EXTINF:0,PT: Benfica TV SD
-http://62.210.162.209:58080/live/mine/mine/429.ts
-#EXTINF:0,PT: SPORT TV1 HD
-http://62.210.162.209:58080/live/mine/mine/430.ts
-#EXTINF:0,PT: SPORT TV2
-http://62.210.162.209:58080/live/mine/mine/431.ts
-#EXTINF:0,PT: SPORT TV 3
-http://62.210.162.209:58080/live/mine/mine/432.ts
-#EXTINF:0,PT: SPORT TV 4
-http://62.210.162.209:58080/live/mine/mine/433.ts
-#EXTINF:0,PT: SPORT TV5 HD
-http://62.210.162.209:58080/live/mine/mine/434.ts
-#EXTINF:0,PT: EuroSport News
-http://62.210.162.209:58080/live/mine/mine/472.ts
-#EXTINF:0,PT: Sporting TV HD
-http://62.210.162.209:58080/live/mine/mine/435.ts
-BT Sport 1
-http://bit.ly/2ej4zBh
-Arena Sport 4
-http://bit.ly/2dt4VaJ
-#EXTINF:-1, SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1, SPORT 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1, SPORT 3 HD
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:-1, SPORT 4 HD
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
-#EXTINF:-1, SPORT 5 HD
-http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
-#EXTINF:-1,TRUESPORT2 HD
-rtmp://216.185.103.158/live2/chthaipremier11
-#EXTINF:-1,TRUESPORT2
-rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:-1,CBCSPORT
-http://149.255.152.110/cbcsport/index.m3u8
-#EXTINF:-1,NBCSNSPORT
-http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
-#EXTINF:-1,FOX SPORT
-http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
-#EXTINF:-1,FOX SPORT 3HD
-http://61.216.71.67/sta/ch02.m3u8
-#EXTINF:-1,SPORT
-http://46.105.161.243:8085/lighd
-#EXTINF:-1,SUPERSPORTS
-http://46.105.161.243:8085/lighd
-#EXTINF:-1,Super Sport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,Super Sport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,Super Sport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,Super Sport 4
-http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:-1,BEIN_SPORTS_1_HD_AR
-http://ip.cs4ip.com:8000/live/testx/testx/186.ts
-#EXTINF:-1,BEIN_SPORTS_1_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2788.ts
-#EXTINF:-1,BEIN_SPORTS_2_HD_AR
-http://ip.cs4ip.com:8000/live/testx/testx/188.ts
-#EXTINF:-1,BEIN_SPORTS_2_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2789.ts
-#EXTINF:-1,BEIN_SPORTS_3_HD_AR
-http://ip.cs4ip.com:8000/live/testx/testx/189.ts
-#EXTINF:-1,BEIN_SPORTS_3_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2790.ts
-#EXTINF:-1,BEIN_SPORTS_4_HD_AR
-http://ip.cs4ip.com:8000/live/testx/testx/266.ts
-#EXTINF:-1,BEIN_SPORTS_4_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2839.ts
-#EXTINF:-1,BEIN_SPORTS_5_HD_AR
-http://ip.cs4ip.com:8000/live/testx/testx/267.ts
-#EXTINF:-1,BEIN_SPORTS_5_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2840.ts
-#EXTINF:-1,BEIN_SPORTS_6_HD_AR
-http://ip.cs4ip.com:8000/live/testx/testx/268.ts
-#EXTINF:-1,BEIN_SPORTS_6_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2841.ts
-#EXTINF:-1,BEIN_SPORTS_HD7_AR
-http://ip.cs4ip.com:8000/live/testx/testx/7.ts
-#EXTINF:-1,BEIN_SPORTS_7_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2889.ts
-#EXTINF:-1,BEIN_SPORTS_HD8_AR
-http://ip.cs4ip.com:8000/live/testx/testx/8.ts
-#EXTINF:-1,BEIN_SPORTS_8_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2890.ts
-#EXTINF:-1,BEIN_SPORTS_HD9_AR
-http://ip.cs4ip.com:8000/live/testx/testx/9.ts
-#EXTINF:-1,BEIN_SPORTS_9_HDS
-http://ip.cs4ip.com:8000/live/testx/testx/2891.ts
-#EXTINF:-1,BEIN_SPORTS_HD10_AR
-http://ip.cs4ip.com:8000/live/testx/testx/10.ts
-#EXTINF:-1,beINSPORT11_HD
-http://ip.cs4ip.com:8000/live/testx/testx/1798.ts
-#EXTINF:-1,beINSPORT12_HD
-http://ip.cs4ip.com:8000/live/testx/testx/1799.ts
-#EXTINF:-1,BEINSPORT1_SD
-http://ip.cs4ip.com:8000/live/testx/testx/388.ts
-#EXTINF:-1,BEINSPORT_2SD
-http://ip.cs4ip.com:8000/live/testx/testx/389.ts
-#EXTINF:-1,BEINSPORT_3SD
-http://ip.cs4ip.com:8000/live/testx/testx/390.ts
-#EXTINF:-1,BEINSPORT_4SD
-http://ip.cs4ip.com:8000/live/testx/testx/391.ts
-#EXTINF:-1,BEINSPORT_5SD
-http://ip.cs4ip.com:8000/live/testx/testx/392.ts
-#EXTINF:-1,BEINSPORT_6SD
-http://ip.cs4ip.com:8000/live/testx/testx/393.ts
-#EXTINF:-1,BEINSPORT_7SD
-http://ip.cs4ip.com:8000/live/testx/testx/394.ts
-#EXTINF:-1,BEINSPORT_8SD
-http://ip.cs4ip.com:8000/live/testx/testx/395.ts
-#EXTINF:-1,BEINSPORT9_SD
-http://ip.cs4ip.com:8000/live/testx/testx/396.ts
-#EXTINF:-1,BEINSPORT_10SD
-http://ip.cs4ip.com:8000/live/testx/testx/397.ts
-#EXTINF:-1,BEIN_MOVIES_1_HD
-http://ip.cs4ip.com:8000/live/testx/testx/2773.ts
-#EXTINF:-1,BEIN_MOVIES_2_HD
-http://ip.cs4ip.com:8000/live/testx/testx/2776.ts
-#EXTINF:-1,BEIN_MOVIES_3_HD
-http://ip.cs4ip.com:8000/live/testx/testx/2777.ts
-#EXTINF:-1,BEIN_MOVIES_4_HD
-http://ip.cs4ip.com:8000/live/testx/testx/2778.ts
-#EXTINF:-1,BEIN AMC MOVIES
-http://ip.cs4ip.com:8000/live/testx/testx/2893.ts
-#EXTINF:-1,BEIN_FATAFEAT_HD
-http://ip.cs4ip.com:8000/live/testx/testx/2780.ts
-#EXTINF:-1,BEIN STAR WORLD
-http://ip.cs4ip.com:8000/live/testx/testx/2866.ts
-#EXTINF:-1,BEIN_DREAMWORKS_HD
-http://ip.cs4ip.com:8000/live/testx/testx/2779.ts
-#EXTINF:-1,BEIN_JEEM
-http://ip.cs4ip.com:8000/live/testx/testx/2775.ts
-#EXTINF:-1,BEIN_BARRAEM
-http://ip.cs4ip.com:8000/live/testx/testx/2774.ts
-#EXTINF:-1,BEIN DISCOVERY LIFE
-http://ip.cs4ip.com:8000/live/testx/testx/2892.ts
-#EXTINF:-1,BEINSPORT_NEWS_ARABIC
-http://ip.cs4ip.com:8000/live/testx/testx/685.ts
-http://89.163.148.31:8000/live/patrick/patrick/8429.ts
+#EXTINF:-1,OS :OSN YAHALA HD
+http://149.202.69.205:8088/live/tman/tman/14.ts
+#EXTINF:-1,OS :OSN YAHALA +2 HD
+http://149.202.69.205:8088/live/tman/tman/1014.ts
+#EXTINF:-1,OS :OSN YAHALA SHABAB HD
+http://149.202.69.205:8088/live/tman/tman/644.ts
+#EXTINF:-1,OS :OSN YAHALA  DRAMA HD
+http://149.202.69.205:8088/live/tman/tman/20.ts
+#EXTINF:-1,OS :OSN YAHALA CINEMA HD
+http://149.202.69.205:8088/live/tman/tman/387.ts
+#EXTINF:-1,OS :OSN MOVIES HD
+http://149.202.69.205:8088/live/tman/tman/48.ts
+#EXTINF:-1,OS :OSN MOVIES +2 HD
+http://149.202.69.205:8088/live/tman/tman/35.ts
+#EXTINF:-1,OS :OSN MOVIES ACTION
+http://149.202.69.205:8088/live/tman/tman/905.ts
+#EXTINF:-1,OS :OSN MOVIES ACTION + 2
+http://149.202.69.205:8088/live/tman/tman/1013.ts
+#EXTINF:-1,OS :OSN MOVIES DRAMA
+http://149.202.69.205:8088/live/tman/tman/906.ts
+#EXTINF:-1,OS :OSN MOVIES DRAMA + 2
+http://149.202.69.205:8088/live/tman/tman/1011.ts
+#EXTINF:-1,OS :OSN MOVIES PREMIERE HD
+http://149.202.69.205:8088/live/tman/tman/933.ts
+#EXTINF:-1,OS :OSN MOVIES PREMIERE + 2 HD
+http://149.202.69.205:8088/live/tman/tman/1012.ts
+#EXTINF:-1,OS :OSN MOVIES COMEDY
+http://149.202.69.205:8088/live/tman/tman/907.ts
+#EXTINF:-1,OS: OSN MOVIES FAMILY HD
+http://149.202.69.205:8088/live/tman/tman/229.ts
+#EXTINF:-1,OS :OSN MOVIES FESTIVAL HD
+http://149.202.69.205:8088/live/tman/tman/38.ts
+#EXTINF:-1,OS :OSN MOVIES KIDS HD
+http://149.202.69.205:8088/live/tman/tman/524.ts
+#EXTINF:-1,OS :OSN FIRST HD
+http://149.202.69.205:8088/live/tman/tman/889.ts
+#EXTINF:-1,OS :OSN FIRST+ 2 HD
+http://149.202.69.205:8088/live/tman/tman/1010.ts
+#EXTINF:-1,OS :OSN FIRST COMEDY HD
+http://149.202.69.205:8088/live/tman/tman/11.ts
+#EXTINF:-1,OS :OSN FIRST COMEDY + 2 HD
+http://149.202.69.205:8088/live/tman/tman/1009.ts
+#EXTINF:-1,OS :OSN FIRST HBO HD
+http://149.202.69.205:8088/live/tman/tman/204.ts
+#EXTINF:-1,OS :OSN FX HD
+http://149.202.69.205:8088/live/tman/tman/1143.ts
+#EXTINF:-1,OS :OSN FOX ACTION HD
+http://149.202.69.205:8088/live/tman/tman/39.ts
+#EXTINF:-1,OS :OSN FOX FAMILY HD
+http://149.202.69.205:8088/live/tman/tman/971.ts
+#EXTINF:-1,OS :OSN STAR MOVIE HD
+http://149.202.69.205:8088/live/tman/tman/6.ts
+#EXTINF:-1,OS :OSN STAR WORLD HD
+http://149.202.69.205:8088/live/tman/tman/393.ts
+#EXTINF:-1,OS :OSN Starz HD
+http://149.202.69.205:8088/live/tman/tman/991.ts
+#EXTINF:-1,OS :OSN Starz Family HD
+http://149.202.69.205:8088/live/tman/tman/992.ts
+#EXTINF:-1,OS :OSN Starz Edge HD
+http://149.202.69.205:8088/live/tman/tman/993.ts
+#EXTINF:-1,OS :OSN Starz Comedy HD
+http://149.202.69.205:8088/live/tman/tman/994.ts
+#EXTINF:-1,OS :OSN SUNDANCE TV HD
+http://149.202.69.205:8088/live/tman/tman/999.ts
+#EXTINF:-1,OS :OSN Comedy Central
+http://149.202.69.205:8088/live/tman/tman/37.ts
+#EXTINF:-1,OS :OSN OUTDOOR HD
+http://149.202.69.205:8088/live/tman/tman/1065.ts
+#EXTINF:-1,OS :OSN SyFy HD
+http://149.202.69.205:8088/live/tman/tman/1018.ts
+#EXTINF:-1,OS: OSN TLC HD
+http://149.202.69.205:8088/live/tman/tman/1130.ts
+#EXTINF:-1,OS :OSN FATAFEET
+http://149.202.69.205:8088/live/tman/tman/782.ts
+#EXTINF:-1,OS :OSN Food Network
+http://149.202.69.205:8088/live/tman/tman/1036.ts
+#EXTINF:-1,OS :OSN Fashion
+http://149.202.69.205:8088/live/tman/tman/1038.ts
+#EXTINF:-1,OS: ITV Choice HD
+http://149.202.69.205:8088/live/tman/tman/1133.ts
+#EXTINF:-1,OS: BBC First HD
+http://149.202.69.205:8088/live/tman/tman/1142.ts
+#EXTINF:-1,OS: OSN NEWS HD
+http://149.202.69.205:8088/live/tman/tman/1131.ts
+#EXTINF:-1,OS: Sky News HD
+http://149.202.69.205:8088/live/tman/tman/1139.ts
+#EXTINF:-1,OS: OSN Nickelodeon AR
+http://149.202.69.205:8088/live/tman/tman/419.ts
+#EXTINF:-1,OS :OSN Nickelodeon Junior
+http://149.202.69.205:8088/live/tman/tman/998.ts
+#EXTINF:-1,OS: OSN Disney AR
+http://149.202.69.205:8088/live/tman/tman/520.ts
+#EXTINF:-1,OS: Disney Junior Ar
+http://149.202.69.205:8088/live/tman/tman/1141.ts
+#EXTINF:-1,OS: Disney XD
+http://149.202.69.205:8088/live/tman/tman/1140.ts
+#EXTINF:-1,OS: OSN Jim Jam
+http://149.202.69.205:8088/live/tman/tman/425.ts
+#EXTINF:-1,OS: OSN Boomerang
+http://149.202.69.205:8088/live/tman/tman/1144.ts
+#EXTINF:-1,OS :OSN SPORT 1 HD
+http://149.202.69.205:8088/live/tman/tman/1008.ts
+#EXTINF:-1,OS :OSN SPORT 2 HD
+http://149.202.69.205:8088/live/tman/tman/1007.ts
+#EXTINF:-1,OS :OSN SPORT 3 HD
+http://149.202.69.205:8088/live/tman/tman/1006.ts
+#EXTINF:-1,OS :OSN SPORT 4 HD
+http://149.202.69.205:8088/live/tman/tman/1005.ts
+#EXTINF:-1,OS: OSN Ten Cricket
+http://149.202.69.205:8088/live/tman/tman/1237.ts
+#EXTINF:-1,OS :OSN SPORT CRICKET HD
+http://149.202.69.205:8088/live/tman/tman/1000.ts
+#EXTINF:-1,OS: OSN Fight Network HD
+http://149.202.69.205:8088/live/tman/tman/1132.ts
+#EXTINF:-1,OS :OSN WWE HD
+http://149.202.69.205:8088/live/tman/tman/1004.ts
+#EXTINF:-1,OS :OSN NATIONAL Geo HD
+http://149.202.69.205:8088/live/tman/tman/391.ts
+#EXTINF:-1,OS :OSN NATIONAL GEO WILD
+http://149.202.69.205:8088/live/tman/tman/4.ts
+#EXTINF:-1,OS :OSN NATIONAL GEO PEOPLE HD
+http://149.202.69.205:8088/live/tman/tman/914.ts
+#EXTINF:-1,OS :OSN DISCOVERY HD
+http://149.202.69.205:8088/live/tman/tman/1066.ts
+#EXTINF:-1,OS :OSN DISCOVERY SCIENCE HD
+http://149.202.69.205:8088/live/tman/tman/218.ts
+#EXTINF:-1,OS: OSN DISCOVERY FAMILY HD
+http://149.202.69.205:8088/live/tman/tman/1136.ts
+#EXTINF:-1,OS: OSN DISCOVERY IDX HD
+http://149.202.69.205:8088/live/tman/tman/1134.ts
+#EXTINF:-1,OS :OSN ANIMAL PLANET HD
+http://149.202.69.205:8088/live/tman/tman/216.ts
+#EXTINF:-1,OS :OSN ENTERTAINMENT! HD
+http://149.202.69.205:8088/live/tman/tman/18.ts
+#EXTINF:-1,OS: OSN Crime & Investigation Network
+http://149.202.69.205:8088/live/tman/tman/1137.ts
+#EXTINF:-1,OS :OSN History HD
+http://149.202.69.205:8088/live/tman/tman/1015.ts
+#EXTINF:-1,OS: OSN History 2 HD
+http://149.202.69.205:8088/live/tman/tman/1135.ts
+#EXTINF:-1,OS :OSN AL YOUM HD
+http://149.202.69.205:8088/live/tman/tman/1039.ts
+#EXTINF:-1,OS :OSN AL YOUM SD
+http://149.202.69.205:8088/live/tman/tman/15.ts
+#EXTINF:-1,OS :OSN SAFWA
+http://149.202.69.205:8088/live/tman/tman/920.ts
+#EXTINF:-1,OS :OSN FANN
+http://149.202.69.205:8088/live/tman/tman/937.ts
+#EXTINF:-1,OS :OSN CINEMA 1
+http://149.202.69.205:8088/live/tman/tman/921.ts
+#EXTINF:-1,OS :OSN CINEMA 2
+http://149.202.69.205:8088/live/tman/tman/922.ts
+#EXTINF:-1,OS :OSN Series HD
+http://149.202.69.205:8088/live/tman/tman/934.ts
+#EXTINF:-1,OS :OSN MBC Plus Drama HD
+http://149.202.69.205:8088/live/tman/tman/983.ts
+#EXTINF:-1,OS :OSN MBC Variety HD
+http://149.202.69.205:8088/live/tman/tman/972.ts
+#EXTINF:-1,OS :BEIN MOVIES 1 HD Live
+http://149.202.69.205:8088/live/tman/tman/16.ts
+#EXTINF:-1,OS :BEIN MOVIES 2 HD Live
+http://149.202.69.205:8088/live/tman/tman/17.ts
+#EXTINF:-1,OS :BEIN MOVIES 3 HD Live
+http://149.202.69.205:8088/live/tman/tman/388.ts
+#EXTINF:-1,OS :BEIN MOVIES 4 HD
+http://149.202.69.205:8088/live/tman/tman/5.ts
+#EXTINF:-1,OS :OSN BOX OFFICE 1 HD
+http://149.202.69.205:8088/live/tman/tman/1003.ts
+#EXTINF:-1,OS :OSN BOX OFFICE 2 HD
+http://149.202.69.205:8088/live/tman/tman/1002.ts
+#EXTINF:-1,OS :OSN BOX OFFICE 3 HD
+http://149.202.69.205:8088/live/tman/tman/1001.ts
+#EXTINF:-1,OS :OSN On Demand HD
+http://149.202.69.205:8088/live/tman/tman/1016.ts
+#EXTINF:-1,OS :OSN On Demand Extra HD
+http://149.202.69.205:8088/live/tman/tman/1017.ts
+#EXTINF:-1,SPORT:Bein Sport News
+http://149.202.69.205:8088/live/tman/tman/33.ts
+#EXTINF:-1,SPORT:BEIN SPORTS GLOBAL HD
+http://149.202.69.205:8088/live/tman/tman/34.ts
+#EXTINF:-1,Vip: Bein Sport 1 HD
+http://149.202.69.205:8088/live/tman/tman/1099.ts
+#EXTINF:-1,Vip: Bein Sport 2 HD
+http://149.202.69.205:8088/live/tman/tman/1100.ts
+#EXTINF:-1,Vip: Bein Sport 3 HD
+http://149.202.69.205:8088/live/tman/tman/1098.ts
+#EXTINF:-1,Vip: Bein Sport 4 HD
+http://149.202.69.205:8088/live/tman/tman/1101.ts
+#EXTINF:-1,Vip: Bein Sport 5 HD
+http://149.202.69.205:8088/live/tman/tman/1102.ts
+#EXTINF:-1,Vip: Bein Sport 6 HD
+http://149.202.69.205:8088/live/tman/tman/1151.ts
+#EXTINF:-1,Vip: Bein Sport 7 HD
+http://149.202.69.205:8088/live/tman/tman/1152.ts
+#EXTINF:-1,Vip: Bein Sport 8 HD
+http://149.202.69.205:8088/live/tman/tman/1153.ts
+#EXTINF:-1,Vip: Bein Sport 9 HD
+http://149.202.69.205:8088/live/tman/tman/1154.ts
+#EXTINF:-1,Vip: Bein Sport 10 HD
+http://149.202.69.205:8088/live/tman/tman/1155.ts
+#EXTINF:-1,Vip: Bein Sport 11 HD
+http://149.202.69.205:8088/live/tman/tman/1171.ts
+#EXTINF:-1,Vip: Bein Sport 12 HD
+http://149.202.69.205:8088/live/tman/tman/1172.ts
+#EXTINF:-1,SPORT:BEIN SPORT 1 HD
+http://149.202.69.205:8088/live/tman/tman/661.ts
+#EXTINF:-1,SPORT:BEIN SPORT 2 HD
+http://149.202.69.205:8088/live/tman/tman/662.ts
+#EXTINF:-1,SPORT:BEIN SPORT 3 HD
+http://149.202.69.205:8088/live/tman/tman/663.ts
+#EXTINF:-1,SPORT:BEIN SPORT 4 HD
+http://149.202.69.205:8088/live/tman/tman/664.ts
+#EXTINF:-1,SPORT:BEIN SPORT 5 HD
+http://149.202.69.205:8088/live/tman/tman/665.ts
+#EXTINF:-1,SPORT:BEIN SPORT 6 HD
+http://149.202.69.205:8088/live/tman/tman/666.ts
+#EXTINF:-1,SPORT:BEIN SPORT 7 HD
+http://149.202.69.205:8088/live/tman/tman/667.ts
+#EXTINF:-1,SPORT:BEIN SPORT 8 HD
+http://149.202.69.205:8088/live/tman/tman/668.ts
+#EXTINF:-1,SPORT:BEIN SPORT 9 HD
+http://149.202.69.205:8088/live/tman/tman/669.ts
+#EXTINF:-1,SPORT:BEIN SPORT 10 HD
+http://149.202.69.205:8088/live/tman/tman/670.ts
+#EXTINF:-1,SPORT:Bein Sport 1 Full HD
+http://149.202.69.205:8088/live/tman/tman/21.ts
+#EXTINF:-1,SPORT:Bein Sport 2 Full HD
+http://149.202.69.205:8088/live/tman/tman/22.ts
+#EXTINF:-1,SPORT:Bein Sport 3 Full HD
+http://149.202.69.205:8088/live/tman/tman/23.ts
+#EXTINF:-1,SPORT:Bein Sport 4 Full HD
+http://149.202.69.205:8088/live/tman/tman/24.ts
+#EXTINF:-1,SPORT:Bein Sport 5 Full HD
+http://149.202.69.205:8088/live/tman/tman/25.ts
+#EXTINF:-1,SPORT:Bein Sport 6 Full HD
+http://149.202.69.205:8088/live/tman/tman/26.ts
+#EXTINF:-1,SPORT:Bein Sport 7 Full HD
+http://149.202.69.205:8088/live/tman/tman/27.ts
+#EXTINF:-1,SPORT:Bein Sport 8 Full HD
+http://149.202.69.205:8088/live/tman/tman/28.ts
+#EXTINF:-1,SPORT:Bein Sport 9 Full HD
+http://149.202.69.205:8088/live/tman/tman/29.ts
+#EXTINF:-1,SPORT:Bein Sport 10 Full HD
+http://149.202.69.205:8088/live/tman/tman/30.ts
+#EXTINF:-1,SPORT:Bein Sport 11 Full HD
+http://149.202.69.205:8088/live/tman/tman/31.ts
+#EXTINF:-1,SPORT:Bein Sport 12 Full HD
+http://149.202.69.205:8088/live/tman/tman/32.ts
+#EXTINF:-1,SPORT:Bein Sport 13 Full HD
+http://149.202.69.205:8088/live/tman/tman/1046.ts
+#EXTINF:-1,SPORT:Bein Sport 14 Full HD
+http://149.202.69.205:8088/live/tman/tman/1047.ts
+#EXTINF:-1,SPORT:Bein Sport 15 Full HD
+http://149.202.69.205:8088/live/tman/tman/1048.ts
+#EXTINF:-1,SPORT:Bein Sport 16 Full HD
+http://149.202.69.205:8088/live/tman/tman/1049.ts
+#EXTINF:-1,SPORT:Bein Sport 17 Full HD
+http://149.202.69.205:8088/live/tman/tman/1050.ts
+#EXTINF:-1,SPORT:Bein Sport 1 SD
+http://149.202.69.205:8088/live/tman/tman/1082.ts
+#EXTINF:-1,SPORT:Bein Sport 2 SD
+http://149.202.69.205:8088/live/tman/tman/1083.ts
+#EXTINF:-1,SPORT:Bein Sport 3 SD
+http://149.202.69.205:8088/live/tman/tman/1084.ts
+#EXTINF:-1,SPORT:Bein Sport 4 SD
+http://149.202.69.205:8088/live/tman/tman/1085.ts
+#EXTINF:-1,SPORT:Bein Sport 5 SD
+http://149.202.69.205:8088/live/tman/tman/1086.ts
+#EXTINF:-1,SPORT:Bein Sport 1 Low
+http://149.202.69.205:8088/live/tman/tman/1051.ts
+#EXTINF:-1,SPORT:Bein Sport 2 Low
+http://149.202.69.205:8088/live/tman/tman/1052.ts
+#EXTINF:-1,SPORT:Bein Sport 3 Low
+http://149.202.69.205:8088/live/tman/tman/1053.ts
+#EXTINF:-1,SPORT:Bein Sport 4 Low
+http://149.202.69.205:8088/live/tman/tman/1054.ts
+#EXTINF:-1,SPORT:Bein Sport 5 Low
+http://149.202.69.205:8088/live/tman/tman/1055.ts
+#EXTINF:-1,SPORT:Bein Sport 6 Low
+http://149.202.69.205:8088/live/tman/tman/1056.ts
+#EXTINF:-1,SPORT:Bein Sport 7 Low
+http://149.202.69.205:8088/live/tman/tman/1057.ts
+#EXTINF:-1,SPORT:Bein Sport 8 Low
+http://149.202.69.205:8088/live/tman/tman/1058.ts
+#EXTINF:-1,SPORT:Bein Sport 9 Low
+http://149.202.69.205:8088/live/tman/tman/1059.ts
+#EXTINF:-1,SPORT:Bein Sport 10 Low
+http://149.202.69.205:8088/live/tman/tman/1060.ts
+#EXTINF:-1,SPORT:Bein Sport 1 Extra
+http://149.202.69.205:8088/live/tman/tman/1069.ts
+#EXTINF:-1,SPORT:Bein Sport 2 Extra
+http://149.202.69.205:8088/live/tman/tman/1070.ts
+#EXTINF:-1,SPORT:Bein Sport 3 Extra
+http://149.202.69.205:8088/live/tman/tman/1071.ts
+#EXTINF:-1,SPORT:Bein Sport 4 Extra
+http://149.202.69.205:8088/live/tman/tman/1072.ts
+#EXTINF:-1,SPORT:Bein Sport 5 Extra
+http://149.202.69.205:8088/live/tman/tman/1073.ts
+#EXTINF:-1,SPORT:Bein Sport 6 Extra
+http://149.202.69.205:8088/live/tman/tman/1074.ts
+#EXTINF:-1,SPORT:Bein Sport 7 Extra
+http://149.202.69.205:8088/live/tman/tman/1075.ts
+#EXTINF:-1,SPORT:Bein Sport 8 Extra
+http://149.202.69.205:8088/live/tman/tman/1076.ts
+#EXTINF:-1,SPORT:Bein Sport 9 Extra
+http://149.202.69.205:8088/live/tman/tman/1077.ts
+#EXTINF:-1,SPORT:Bein Sport 10 Extra
+http://149.202.69.205:8088/live/tman/tman/1078.ts
+#EXTINF:-1,SPORT:Bein Sport 11 Extra
+http://149.202.69.205:8088/live/tman/tman/1079.ts
+#EXTINF:-1,SPORT:Bein Sport 12 Extra
+http://149.202.69.205:8088/live/tman/tman/1080.ts
+#EXTINF:-1,AR: MEkameleen tv
+http://149.202.69.205:8088/live/tman/tman/1200.ts
+#EXTINF:-1,AR: SeeVii-Beelink
+http://149.202.69.205:8088/live/tman/tman/1235.ts
+#EXTINF:-1,AR: SeeVii Premiere HD
+http://149.202.69.205:8088/live/tman/tman/1234.ts
+#EXTINF:-1,AR: SeeVii Drama HD
+http://149.202.69.205:8088/live/tman/tman/1233.ts
+#EXTINF:-1,AR: ART AFLAM 1
+http://149.202.69.205:8088/live/tman/tman/44.ts
+#EXTINF:-1,AR: ART AFLAM 2
+http://149.202.69.205:8088/live/tman/tman/45.ts
+#EXTINF:-1,AR: ART CINEMA
+http://149.202.69.205:8088/live/tman/tman/43.ts
+#EXTINF:-1,AR: ART HEKAYAT 1
+http://149.202.69.205:8088/live/tman/tman/46.ts
+#EXTINF:-1,AR: ART HEKAYAT 2
+http://149.202.69.205:8088/live/tman/tman/47.ts
+#EXTINF:-1,AR: MBC 1
+http://149.202.69.205:8088/live/tman/tman/1040.ts
+#EXTINF:-1,AR: MBC 2
+http://149.202.69.205:8088/live/tman/tman/1041.ts
+#EXTINF:-1,AR: MBC 3
+http://149.202.69.205:8088/live/tman/tman/1042.ts
+#EXTINF:-1,AR: MBC 4
+http://149.202.69.205:8088/live/tman/tman/1043.ts
+#EXTINF:-1,AR: MBC Drama
+http://149.202.69.205:8088/live/tman/tman/1045.ts
+#EXTINF:-1,AR: MBC Action
+http://149.202.69.205:8088/live/tman/tman/1044.ts
+#EXTINF:-1,AR: MBC MASR
+http://149.202.69.205:8088/live/tman/tman/58.ts
+#EXTINF:-1,AR: MBC MASR 2
+http://149.202.69.205:8088/live/tman/tman/799.ts
+#EXTINF:-1,AR: MBC 1 HD
+http://149.202.69.205:8088/live/tman/tman/51.ts
+#EXTINF:-1,AR: MBC 2 HD
+http://149.202.69.205:8088/live/tman/tman/52.ts
+#EXTINF:-1,AR: MBC 3 HD
+http://149.202.69.205:8088/live/tman/tman/53.ts
+#EXTINF:-1,AR: MBC 4 HD
+http://149.202.69.205:8088/live/tman/tman/54.ts
+#EXTINF:-1,AR: MBC MAX HD
+http://149.202.69.205:8088/live/tman/tman/59.ts
+#EXTINF:-1,AR: MBC DRAMA HD
+http://149.202.69.205:8088/live/tman/tman/56.ts
+#EXTINF:-1,AR: MBC ACTION HD
+http://149.202.69.205:8088/live/tman/tman/55.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://149.202.69.205:8088/live/tman/tman/57.ts
+#EXTINF:-1,AR: MBC PRO SPORT 1HD
+http://149.202.69.205:8088/live/tman/tman/316.ts
+#EXTINF:-1,AR: MBC PRO SPORT 2 HD
+http://149.202.69.205:8088/live/tman/tman/317.ts
+#EXTINF:-1,AR: MBC PRO SPORT 3 HD
+http://149.202.69.205:8088/live/tman/tman/318.ts
+#EXTINF:-1,==*ROTANA*==
+http://149.202.69.205:8088/live/tman/tman/1180.ts
+#EXTINF:-1,AR: ROTANA CLIP
+http://149.202.69.205:8088/live/tman/tman/62.ts
+#EXTINF:-1,AR: ROTANA CLASSIC
+http://149.202.69.205:8088/live/tman/tman/64.ts
+#EXTINF:-1,AR: ROTANA CINEMA
+http://149.202.69.205:8088/live/tman/tman/60.ts
+#EXTINF:-1,AR: ROTANA MUSIC
+http://149.202.69.205:8088/live/tman/tman/65.ts
+#EXTINF:-1,AR: ROTANA MASRIYAH
+http://149.202.69.205:8088/live/tman/tman/61.ts
+#EXTINF:-1,AR: ROTANA KHALIJIYAH
+http://149.202.69.205:8088/live/tman/tman/63.ts
+#EXTINF:-1,==*LEBANON*==
+http://149.202.69.205:8088/live/tman/tman/1181.ts
+#EXTINF:-1,AR: ALJADEED TV
+http://149.202.69.205:8088/live/tman/tman/206.ts
+#EXTINF:-1,AR: OTV
+http://149.202.69.205:8088/live/tman/tman/205.ts
+#EXTINF:-1,AR: LBC
+http://149.202.69.205:8088/live/tman/tman/401.ts
+#EXTINF:-1,AR: NBN TV HD
+http://149.202.69.205:8088/live/tman/tman/219.ts
+#EXTINF:-1,AR: LDC LIBANON
+http://149.202.69.205:8088/live/tman/tman/217.ts
+#EXTINF:-1,AR: FUTURE TV
+http://149.202.69.205:8088/live/tman/tman/207.ts
+#EXTINF:-1,AR: MTV LEBANON
+http://149.202.69.205:8088/live/tman/tman/192.ts
+#EXTINF:-1,AR: AL MANAR
+http://149.202.69.205:8088/live/tman/tman/99.ts
+#EXTINF:-1,AR: AL MAYADEEN
+http://149.202.69.205:8088/live/tman/tman/77.ts
+#EXTINF:-1,==*EGYPT*==
+http://149.202.69.205:8088/live/tman/tman/1182.ts
+#EXTINF:-1,AR: AL NAHAR TV
+http://149.202.69.205:8088/live/tman/tman/69.ts
+#EXTINF:-1,AR: AL NAHAR +2
+http://149.202.69.205:8088/live/tman/tman/71.ts
+#EXTINF:-1,AR: ALNAHAR ALYAWM
+http://149.202.69.205:8088/live/tman/tman/925.ts
+#EXTINF:-1,AR: AL NAHAR DRAMA
+http://149.202.69.205:8088/live/tman/tman/70.ts
+#EXTINF:-1,AR: ALNAHAR CINEMA
+http://149.202.69.205:8088/live/tman/tman/579.ts
+#EXTINF:-1,AR: Al Nahar Ryada
+http://149.202.69.205:8088/live/tman/tman/1061.ts
+#EXTINF:-1,AR: CBC TV
+http://149.202.69.205:8088/live/tman/tman/66.ts
+#EXTINF:-1,AR: CBC+2
+http://149.202.69.205:8088/live/tman/tman/134.ts
+#EXTINF:-1,AR: CBC EXTRA
+http://149.202.69.205:8088/live/tman/tman/68.ts
+#EXTINF:-1,AR: CBC DRAMA
+http://149.202.69.205:8088/live/tman/tman/67.ts
+#EXTINF:-1,AR: CBC SOFRA
+http://149.202.69.205:8088/live/tman/tman/429.ts
+#EXTINF:-1,AR: SADA EL BALAD HD
+http://149.202.69.205:8088/live/tman/tman/649.ts
+#EXTINF:-1,AR: SADA AL BALAD 2
+http://149.202.69.205:8088/live/tman/tman/747.ts
+#EXTINF:-1,AR: SADA AL BALAD DRAMA
+http://149.202.69.205:8088/live/tman/tman/748.ts
+#EXTINF:-1,AR: Alhayat Tv
+http://149.202.69.205:8088/live/tman/tman/409.ts
+#EXTINF:-1,AR: ALHAYAT 2 TV
+http://149.202.69.205:8088/live/tman/tman/422.ts
+#EXTINF:-1,AR: ALHAYAT MUSALSALAT
+http://149.202.69.205:8088/live/tman/tman/424.ts
+#EXTINF:-1,AR: ONTV
+http://149.202.69.205:8088/live/tman/tman/625.ts
+#EXTINF:-1,AR: ONTV PLUS
+http://149.202.69.205:8088/live/tman/tman/926.ts
+#EXTINF:-1,AR: ONTV_SPORT
+http://149.202.69.205:8088/live/tman/tman/1091.ts
+#EXTINF:-1,AR: E ONTV
+http://149.202.69.205:8088/live/tman/tman/1177.ts
+#EXTINF:-1,AR: E ONTV HD
+http://149.202.69.205:8088/live/tman/tman/1176.ts
+#EXTINF:-1,AR: AL-SHASHA
+http://149.202.69.205:8088/live/tman/tman/1236.ts
+#EXTINF:-1,AR: TIME TAXI
+http://149.202.69.205:8088/live/tman/tman/538.ts
+#EXTINF:-1,AR: TIME CINEMA
+http://149.202.69.205:8088/live/tman/tman/177.ts
+#EXTINF:-1,AR: TIME FILM
+http://149.202.69.205:8088/live/tman/tman/534.ts
+#EXTINF:-1,AR: TIME COMEDY
+http://149.202.69.205:8088/live/tman/tman/74.ts
+#EXTINF:-1,AR: PANORAMA FILM
+http://149.202.69.205:8088/live/tman/tman/73.ts
+#EXTINF:-1,AR: PANORAMA COMEDY
+http://149.202.69.205:8088/live/tman/tman/72.ts
+#EXTINF:-1,AR: Bayrout Comedy
+http://149.202.69.205:8088/live/tman/tman/122.ts
+#EXTINF:-1,AR: Panorama Food
+http://149.202.69.205:8088/live/tman/tman/1030.ts
+#EXTINF:-1,AR: AL KAHERA WA NAS
+http://149.202.69.205:8088/live/tman/tman/97.ts
+#EXTINF:-1,AR: ALKAHERA WANAS 2
+http://149.202.69.205:8088/live/tman/tman/412.ts
+#EXTINF:-1,AR: STAR CINEMA 1
+http://149.202.69.205:8088/live/tman/tman/91.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://149.202.69.205:8088/live/tman/tman/1029.ts
+#EXTINF:-1,AR: CAIRO DRAMA
+http://149.202.69.205:8088/live/tman/tman/537.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://149.202.69.205:8088/live/tman/tman/540.ts
+#EXTINF:-1,AR: Uber_Classic
+http://149.202.69.205:8088/live/tman/tman/1031.ts
+#EXTINF:-1,AR: Uber_Film
+http://149.202.69.205:8088/live/tman/tman/1032.ts
+#EXTINF:-1,AR: Uber_Aflam
+http://149.202.69.205:8088/live/tman/tman/1033.ts
+#EXTINF:-1,AR: Uber_Cima
+http://149.202.69.205:8088/live/tman/tman/1028.ts
+#EXTINF:-1,AR: Uber_Aflam Turki
+http://149.202.69.205:8088/live/tman/tman/1035.ts
+#EXTINF:-1,AR: Film Tube
+http://149.202.69.205:8088/live/tman/tman/1021.ts
+#EXTINF:-1,AR: Drama Tube
+http://149.202.69.205:8088/live/tman/tman/1025.ts
+#EXTINF:-1,AR: Classic Tube
+http://149.202.69.205:8088/live/tman/tman/1022.ts
+#EXTINF:-1,AR: Cinema Tube
+http://149.202.69.205:8088/live/tman/tman/1023.ts
+#EXTINF:-1,AR: Teatro Tube
+http://149.202.69.205:8088/live/tman/tman/1020.ts
+#EXTINF:-1,AR: Cima Tube
+http://149.202.69.205:8088/live/tman/tman/1024.ts
+#EXTINF:-1,AR: Cinema 1
+http://149.202.69.205:8088/live/tman/tman/1026.ts
+#EXTINF:-1,AR: Cinema 2
+http://149.202.69.205:8088/live/tman/tman/1027.ts
+#EXTINF:-1,AR: NILE LIFE
+http://149.202.69.205:8088/live/tman/tman/95.ts
+#EXTINF:-1,AR: NILE FAMILY
+http://149.202.69.205:8088/live/tman/tman/96.ts
+#EXTINF:-1,AR: NILE COMEDY
+http://149.202.69.205:8088/live/tman/tman/94.ts
+#EXTINF:-1,AR: NILE CINEMA
+http://149.202.69.205:8088/live/tman/tman/93.ts
+#EXTINF:-1,AR: Nile Sport
+http://149.202.69.205:8088/live/tman/tman/1208.ts
+#EXTINF:-1,AR: CIMA
+http://149.202.69.205:8088/live/tman/tman/89.ts
+#EXTINF:-1,AR: AL BIT BITAK CINEMA
+http://149.202.69.205:8088/live/tman/tman/416.ts
+#EXTINF:-1,AR: CINEMA PRO
+http://149.202.69.205:8088/live/tman/tman/262.ts
+#EXTINF:-1,AR: TEN
+http://149.202.69.205:8088/live/tman/tman/750.ts
+#EXTINF:-1,AR: AL OULA
+http://149.202.69.205:8088/live/tman/tman/1067.ts
+#EXTINF:-1,AR: AL THANYA
+http://149.202.69.205:8088/live/tman/tman/1068.ts
+#EXTINF:-1,AR: TOKTOK AFLAM
+http://149.202.69.205:8088/live/tman/tman/743.ts
+#EXTINF:-1,AR: AL 3araby Television
+http://149.202.69.205:8088/live/tman/tman/1088.ts
+#EXTINF:-1,AR: Melody Classic
+http://149.202.69.205:8088/live/tman/tman/1019.ts
+#EXTINF:-1,AR: Dmc Sport
+http://149.202.69.205:8088/live/tman/tman/1175.ts
+#EXTINF:-1,==*SYRIA-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1190.ts
+#EXTINF:-1,AR: Al Ekhbariya Syria
+http://149.202.69.205:8088/live/tman/tman/90.ts
+#EXTINF:-1,AR: SYRIA
+http://149.202.69.205:8088/live/tman/tman/101.ts
+#EXTINF:-1,AR: SYRIA DRAMA
+http://149.202.69.205:8088/live/tman/tman/102.ts
+#EXTINF:-1,AR: NOOR ALSHAM
+http://149.202.69.205:8088/live/tman/tman/104.ts
+#EXTINF:-1,AR: SAMA SYRIA
+http://149.202.69.205:8088/live/tman/tman/103.ts
+#EXTINF:-1,AR: Roya tv
+http://149.202.69.205:8088/live/tman/tman/805.ts
+#EXTINF:-1,==*IRAQ-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1194.ts
+#EXTINF:-1,AR: ALanwar
+http://149.202.69.205:8088/live/tman/tman/117.ts
+#EXTINF:-1,AR:  Al Anwar 2
+http://149.202.69.205:8088/live/tman/tman/742.ts
+#EXTINF:-1,AR: KARBALAA
+http://149.202.69.205:8088/live/tman/tman/749.ts
+#EXTINF:-1,AR:  AL Kawthar
+http://149.202.69.205:8088/live/tman/tman/739.ts
+#EXTINF:-1,AR: ALTAGHYIR
+http://149.202.69.205:8088/live/tman/tman/121.ts
+#EXTINF:-1,AR: FORAT TV
+http://149.202.69.205:8088/live/tman/tman/123.ts
+#EXTINF:-1,AR: BAGHDAD TV
+http://149.202.69.205:8088/live/tman/tman/111.ts
+#EXTINF:-1,AR: ALITTIJAH
+http://149.202.69.205:8088/live/tman/tman/114.ts
+#EXTINF:-1,AR: ALSHARQIA NEWS
+http://149.202.69.205:8088/live/tman/tman/106.ts
+#EXTINF:-1,AR: ALmawseleya
+http://149.202.69.205:8088/live/tman/tman/105.ts
+#EXTINF:-1,AR: ALRASHID
+http://149.202.69.205:8088/live/tman/tman/113.ts
+#EXTINF:-1,AR: ALNABAE
+http://149.202.69.205:8088/live/tman/tman/107.ts
+#EXTINF:-1,AR: ALIRAQIA TV
+http://149.202.69.205:8088/live/tman/tman/118.ts
+#EXTINF:-1,AR: Al-SUMARIA
+http://149.202.69.205:8088/live/tman/tman/814.ts
+#EXTINF:-1,AR: ALIRAQIA SPORT
+http://149.202.69.205:8088/live/tman/tman/120.ts
+#EXTINF:-1,AR: ALanbar
+http://149.202.69.205:8088/live/tman/tman/110.ts
+#EXTINF:-1,AR: ALdiyar
+http://149.202.69.205:8088/live/tman/tman/109.ts
+#EXTINF:-1,AR: AL HURRA HD
+http://149.202.69.205:8088/live/tman/tman/81.ts
+#EXTINF:-1,AR: Alghadir TV
+http://149.202.69.205:8088/live/tman/tman/133.ts
+#EXTINF:-1,AR: Hona Baghdad
+http://149.202.69.205:8088/live/tman/tman/130.ts
+#EXTINF:-1,AR: DIJLA TV
+http://149.202.69.205:8088/live/tman/tman/132.ts
+#EXTINF:-1,AR: ALRAFIDAIN
+http://149.202.69.205:8088/live/tman/tman/127.ts
+#EXTINF:-1,==*MOROCCO-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1192.ts
+#EXTINF:-1,AR: AL OULA MAROC
+http://149.202.69.205:8088/live/tman/tman/136.ts
+#EXTINF:-1,AR: 2M MAROC
+http://149.202.69.205:8088/live/tman/tman/141.ts
+#EXTINF:-1,AR: MEDI1 SAT
+http://149.202.69.205:8088/live/tman/tman/142.ts
+#EXTINF:-1,AR: ARRIADIA MAROC
+http://149.202.69.205:8088/live/tman/tman/230.ts
+#EXTINF:-1,AR: ARRABIA MAROC
+http://149.202.69.205:8088/live/tman/tman/140.ts
+#EXTINF:-1,AR: ALMAGHRIBIA MAROC
+http://149.202.69.205:8088/live/tman/tman/138.ts
+#EXTINF:-1,AR: ASSADISA MAROC
+http://149.202.69.205:8088/live/tman/tman/139.ts
+#EXTINF:-1,AR: BEZAF TV
+http://149.202.69.205:8088/live/tman/tman/550.ts
+#EXTINF:-1,==*TUNISIA-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1191.ts
+#EXTINF:-1,AR: TUNISIA 1
+http://149.202.69.205:8088/live/tman/tman/147.ts
+#EXTINF:-1,AR: Tunisia 2
+http://149.202.69.205:8088/live/tman/tman/151.ts
+#EXTINF:-1,AR: TUNISNA
+http://149.202.69.205:8088/live/tman/tman/144.ts
+#EXTINF:-1,AR: ATTESIA TV Tunis
+http://149.202.69.205:8088/live/tman/tman/315.ts
+#EXTINF:-1,AR: TUNISIA FIRST TV
+http://149.202.69.205:8088/live/tman/tman/146.ts
+#EXTINF:-1,AR: ZITOUNA TV
+http://149.202.69.205:8088/live/tman/tman/145.ts
+#EXTINF:-1,AR: NESSMA
+http://149.202.69.205:8088/live/tman/tman/143.ts
+#EXTINF:-1,AR: HANBAHAL
+http://149.202.69.205:8088/live/tman/tman/150.ts
+#EXTINF:-1,AR: Zitouna Hedaya
+http://149.202.69.205:8088/live/tman/tman/152.ts
+#EXTINF:-1,AR: ALHIWAR TUNISIA
+http://149.202.69.205:8088/live/tman/tman/149.ts
+#EXTINF:-1,==*ALGERIA-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1193.ts
+#EXTINF:-1,AR: ALMAGHARIBIA
+http://149.202.69.205:8088/live/tman/tman/137.ts
+#EXTINF:-1,AR: MAGHARIBIA 2
+http://149.202.69.205:8088/live/tman/tman/155.ts
+#EXTINF:-1,AR: ENNAHAR LAKI
+http://149.202.69.205:8088/live/tman/tman/223.ts
+#EXTINF:-1,AR: ENNAHAR ALGERIA
+http://149.202.69.205:8088/live/tman/tman/222.ts
+#EXTINF:-1,AR: ECHOUROUK TV HD
+http://149.202.69.205:8088/live/tman/tman/158.ts
+#EXTINF:-1,AR: SAMIRA TV
+http://149.202.69.205:8088/live/tman/tman/160.ts
+#EXTINF:-1,AR: DZAIR TV
+http://149.202.69.205:8088/live/tman/tman/220.ts
+#EXTINF:-1,AR: A3 ALGERIA
+http://149.202.69.205:8088/live/tman/tman/153.ts
+#EXTINF:-1,==*LIBYA-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1195.ts
+#EXTINF:-1,AR: LIBYA one
+http://149.202.69.205:8088/live/tman/tman/212.ts
+#EXTINF:-1,AR: LIBYA 218
+http://149.202.69.205:8088/live/tman/tman/213.ts
+#EXTINF:-1,AR: LIBYA ALRASMIA
+http://149.202.69.205:8088/live/tman/tman/211.ts
+#EXTINF:-1,==*PALESTINE-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1196.ts
+#EXTINF:-1,Ajyal Palestine
+http://149.202.69.205:8088/live/tman/tman/1146.ts
+#EXTINF:-1,maan ps
+http://149.202.69.205:8088/live/tman/tman/1174.ts
+#EXTINF:-1,kol elnas ps
+http://149.202.69.205:8088/live/tman/tman/1173.ts
+#EXTINF:-1,AR: AL AQSA TV
+http://149.202.69.205:8088/live/tman/tman/173.ts
+#EXTINF:-1,AR: Al Salam PAlestine
+http://149.202.69.205:8088/live/tman/tman/1089.ts
+#EXTINF:-1,AR: Alfajr tv HD
+http://149.202.69.205:8088/live/tman/tman/489.ts
+#EXTINF:-1,AR: PELESTINE
+http://149.202.69.205:8088/live/tman/tman/135.ts
+#EXTINF:-1,==*INDIA*==
+http://149.202.69.205:8088/live/tman/tman/1185.ts
+#EXTINF:-1,AR: ZEE ALWAN
+http://149.202.69.205:8088/live/tman/tman/92.ts
+#EXTINF:-1,AR: ZEE AFLAM
+http://149.202.69.205:8088/live/tman/tman/87.ts
+#EXTINF:-1,AR: B4U AFLAM
+http://149.202.69.205:8088/live/tman/tman/197.ts
+#EXTINF:-1,==*DUBAI CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1186.ts
+#EXTINF:-1,AR: DUBAI TV
+http://149.202.69.205:8088/live/tman/tman/124.ts
+#EXTINF:-1,AR: DUBAI ONE
+http://149.202.69.205:8088/live/tman/tman/125.ts
+#EXTINF:-1,AR: NOOR DUBAI
+http://149.202.69.205:8088/live/tman/tman/200.ts
+#EXTINF:-1,AR: SAMA DUBAI
+http://149.202.69.205:8088/live/tman/tman/199.ts
+#EXTINF:-1,AR: DUBAI DRAMA
+http://149.202.69.205:8088/live/tman/tman/198.ts
+#EXTINF:-1,==*ISLAMIC-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1198.ts
+#EXTINF:-1,AR: IQRAA
+http://149.202.69.205:8088/live/tman/tman/746.ts
+#EXTINF:-1,AR: ALRAHMA
+http://149.202.69.205:8088/live/tman/tman/580.ts
+#EXTINF:-1,AR: ALSUNNAH TV
+http://149.202.69.205:8088/live/tman/tman/170.ts
+#EXTINF:-1,AR: AL-RESALA TV
+http://149.202.69.205:8088/live/tman/tman/171.ts
+#EXTINF:-1,==*SAUDI-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1189.ts
+#EXTINF:-1,AR: SAUDI 1
+http://149.202.69.205:8088/live/tman/tman/461.ts
+#EXTINF:-1,AR: SAUDI 2
+http://149.202.69.205:8088/live/tman/tman/462.ts
+#EXTINF:-1,AR: ABUDHBAI
+http://149.202.69.205:8088/live/tman/tman/183.ts
+#EXTINF:-1,AR: ABUDHABI DRAMA HD
+http://149.202.69.205:8088/live/tman/tman/80.ts
+#EXTINF:-1,AR: NAT GEO GRAPHIC ABUDHABI HD
+http://149.202.69.205:8088/live/tman/tman/86.ts
+#EXTINF:-1,==*NEWS-CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1197.ts
+#EXTINF:-1,AR: ALJAZEERA
+http://149.202.69.205:8088/live/tman/tman/202.ts
+#EXTINF:-1,AR: AL ARABIA NEWS
+http://149.202.69.205:8088/live/tman/tman/384.ts
+#EXTINF:-1,AR: BBC ARABIC
+http://149.202.69.205:8088/live/tman/tman/554.ts
+#EXTINF:-1,AR: ORIENT NEWS
+http://149.202.69.205:8088/live/tman/tman/208.ts
+#EXTINF:-1,AR: DW TV ARABIA
+http://149.202.69.205:8088/live/tman/tman/201.ts
+#EXTINF:-1,AR: SKY NEWS ARABIA
+http://149.202.69.205:8088/live/tman/tman/83.ts
+#EXTINF:-1,AR: FRANCE 24 ARABIC
+http://149.202.69.205:8088/live/tman/tman/84.ts
+#EXTINF:-1,AR: AL ALAM
+http://149.202.69.205:8088/live/tman/tman/78.ts
+#EXTINF:-1,AR: ALJAZEERA MUBASHER
+http://149.202.69.205:8088/live/tman/tman/100.ts
+#EXTINF:-1,AR: ALJAZEERA DOC
+http://149.202.69.205:8088/live/tman/tman/85.ts
+#EXTINF:-1,AR: ANN NEWS
+http://149.202.69.205:8088/live/tman/tman/82.ts
+#EXTINF:-1,AR: AL ARABIA AL HADATH
+http://149.202.69.205:8088/live/tman/tman/76.ts
+#EXTINF:-1,==*MUSIC CHANNELS*==
+http://149.202.69.205:8088/live/tman/tman/1183.ts
+#EXTINF:-1,AR: AL HANEEN MUSIC
+http://149.202.69.205:8088/live/tman/tman/352.ts
+#EXTINF:-1,AR: AGHANINA TV
+http://149.202.69.205:8088/live/tman/tman/484.ts
+#EXTINF:-1,AR: ARABICA TV
+http://149.202.69.205:8088/live/tman/tman/389.ts
+#EXTINF:-1,AR: WANASAH
+http://149.202.69.205:8088/live/tman/tman/126.ts
