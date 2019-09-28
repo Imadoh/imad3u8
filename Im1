@@ -1,171 +1,63 @@
 #EXTM3U
-#EXTINF:-1,BEIN_SPORT_1_HD
-http://universeiptv.com:8000/imam/imam2019/858
-#EXTINF:-1,BEIN_SPORT_2_HD
-http://universeiptv.com:8000/imam/imam2019/859
-#EXTINF:-1,BEIN_SPORT_3_HD
-http://universeiptv.com:8000/imam/imam2019/860
-#EXTINF:-1,BEIN_SPORT_4_HD
-http://universeiptv.com:8000/imam/imam2019/861
-#EXTINF:-1,BEIN_SPORT_5_HD
-http://universeiptv.com:8000/imam/imam2019/862
-#EXTINF:-1,BEIN_SPORT_6_HD
-http://universeiptv.com:8000/imam/imam2019/863
-#EXTINF:-1,BEIN_SPORT_7_HD
-http://universeiptv.com:8000/imam/imam2019/864
-#EXTINF:-1,BEIN_SPORT_8_HD
-http://universeiptv.com:8000/imam/imam2019/865
-#EXTINF:-1,BEIN_SPORT_9_HD
-http://universeiptv.com:8000/imam/imam2019/866
-#EXTINF:-1,BEIN_SPORT_10_HD
-http://universeiptv.com:8000/imam/imam2019/867
-#EXTINF:-1,BEIN_SPORT_11_HD
-http://universeiptv.com:8000/imam/imam2019/3026
-#EXTINF:-1,BEIN_SPORT_12_HD
-http://universeiptv.com:8000/imam/imam2019/3027
-#EXTINF:-1,BEIN_SPORT_13_HD
-http://universeiptv.com:8000/imam/imam2019/13
-#EXTINF:-1,BEIN_SPORT_14_HD
-http://universeiptv.com:8000/imam/imam2019/14
-#EXTINF:-1,BEIN_SPORT_15_HD
-http://universeiptv.com:8000/imam/imam2019/15
-#EXTINF:-1,BEIN_SPORT_16_HD
-http://universeiptv.com:8000/imam/imam2019/19978
-#EXTINF:-1,bein_Sports_SD1
-http://universeiptv.com:8000/imam/imam2019/1003
-#EXTINF:-1,bein_Sports_SD2
-http://universeiptv.com:8000/imam/imam2019/1004
-#EXTINF:-1,bein_Sports_SD3
-http://universeiptv.com:8000/imam/imam2019/1005
-#EXTINF:-1,bein_Sports_SD4
-http://universeiptv.com:8000/imam/imam2019/1006
-#EXTINF:-1,bein_Sports_SD5
-http://universeiptv.com:8000/imam/imam2019/1007
-#EXTINF:-1,bein_Sports_SD6
-http://universeiptv.com:8000/imam/imam2019/1008
-#EXTINF:-1,bein_Sports_SD7
-http://universeiptv.com:8000/imam/imam2019/1009
-#EXTINF:-1,bein_Sports_SD8
-http://universeiptv.com:8000/imam/imam2019/1010
-#EXTINF:-1,bein_Sports_SD9
-http://universeiptv.com:8000/imam/imam2019/1011
-#EXTINF:-1,bein_Sports_SD10
-http://universeiptv.com:8000/imam/imam2019/1012
-#EXTINF:-1,bein_Sports_SD11
-http://universeiptv.com:8000/imam/imam2019/3028
-#EXTINF:-1,bein_Sports_SD12
-http://universeiptv.com:8000/imam/imam2019/3029
-#EXTINF:-1,BeINsport_HD1_Low
-http://universeiptv.com:8000/imam/imam2019/16
-#EXTINF:-1,BeINsport_HD2_Low
-http://universeiptv.com:8000/imam/imam2019/17
-#EXTINF:-1,BeINsport_HD3_Low
-http://universeiptv.com:8000/imam/imam2019/18
-#EXTINF:-1,BeINsport_HD4_Low
-http://universeiptv.com:8000/imam/imam2019/19
-#EXTINF:-1,BeINsport_HD5_Low
-http://universeiptv.com:8000/imam/imam2019/20
-#EXTINF:-1,BeINsport_HD6_Low
-http://universeiptv.com:8000/imam/imam2019/21
-#EXTINF:-1,BeINsport_HD7_Low
-http://universeiptv.com:8000/imam/imam2019/22
-#EXTINF:-1,BeINsport_HD8_Low
-http://universeiptv.com:8000/imam/imam2019/23
-#EXTINF:-1,BeINsport_HD9_Low
-http://universeiptv.com:8000/imam/imam2019/24
-#EXTINF:-1,BeINsport_HD10_Low
-http://universeiptv.com:8000/imam/imam2019/25
-#EXTINF:-1,BEIN_SPORT_1_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3111
-#EXTINF:-1,BEIN_SPORT_2_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3110
-#EXTINF:-1,BEIN_SPORT_3_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3109
-#EXTINF:-1,BEIN_SPORT_4_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3108
-#EXTINF:-1,BEIN_SPORT_5_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3107
-#EXTINF:-1,BEIN_SPORT_6_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3106
-#EXTINF:-1,BEIN_SPORT_7_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3105
-#EXTINF:-1,BEIN_SPORT_8_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3104
-#EXTINF:-1,BEIN_SPORT_9_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3103
-#EXTINF:-1,BEIN_SPORT_10_HD_1080p
-http://universeiptv.com:8000/imam/imam2019/3102
-#EXTINF:-1,BEIN_SPORT_1_H265
-http://universeiptv.com:8000/imam/imam2019/5544
-#EXTINF:-1,BEIN_SPORT_2_H265
-http://universeiptv.com:8000/imam/imam2019/5543
-#EXTINF:-1,BEIN_SPORT_3_H265
-http://universeiptv.com:8000/imam/imam2019/5542
-#EXTINF:-1,BEIN_SPORT_4_H265
-http://universeiptv.com:8000/imam/imam2019/5541
-#EXTINF:-1,BEIN_SPORT_5_H265
-http://universeiptv.com:8000/imam/imam2019/5540
-#EXTINF:-1,BEIN_SPORT_6_H265
-http://universeiptv.com:8000/imam/imam2019/5539
-#EXTINF:-1,BEIN_SPORT_7_H265
-http://universeiptv.com:8000/imam/imam2019/5538
-#EXTINF:-1,BEIN_SPORT_8_H265
-http://universeiptv.com:8000/imam/imam2019/5537
-#EXTINF:-1,BEIN_SPORT_9_H265
-http://universeiptv.com:8000/imam/imam2019/5536
-#EXTINF:-1,BEIN_SPORT_10_H265
-http://universeiptv.com:8000/imam/imam2019/5535
-#EXTINF:-1,BEIN_SPORT_11_H265
-http://universeiptv.com:8000/imam/imam2019/5534
-#EXTINF:-1,BEIN_SPORT_12_H265
-http://universeiptv.com:8000/imam/imam2019/5533
-#EXTINF:-1,Bein_sport_1
-http://universeiptv.com:8000/imam/imam2019/165
-#EXTINF:-1,Bein_sport_2
-http://universeiptv.com:8000/imam/imam2019/167
-#EXTINF:-1,Bein_sport_3
-http://universeiptv.com:8000/imam/imam2019/168
-#EXTINF:-1,Bein_sport_4
-http://universeiptv.com:8000/imam/imam2019/169
-#EXTINF:-1,Bein_sport_5
-http://universeiptv.com:8000/imam/imam2019/170
-#EXTINF:-1,Bein_sport_6
-http://universeiptv.com:8000/imam/imam2019/171
-#EXTINF:-1,Bein_sport_7
-http://universeiptv.com:8000/imam/imam2019/172
-#EXTINF:-1,Bein_sport_8
-http://universeiptv.com:8000/imam/imam2019/173
-#EXTINF:-1,Bein_sport_9
-http://universeiptv.com:8000/imam/imam2019/174
-#EXTINF:-1,Bein_sport_10
-http://universeiptv.com:8000/imam/imam2019/166
-#EXTINF:-1,BEIN_SPORTS_1_HD
-http://universeiptv.com:8000/imam/imam2019/1
-#EXTINF:-1,BEIN_SPORTS_2_HD
-http://universeiptv.com:8000/imam/imam2019/2
-#EXTINF:-1,BEIN_SPORTS_3_HD
-http://universeiptv.com:8000/imam/imam2019/3
-#EXTINF:-1,BEIN_SPORTS_4_HD
-http://universeiptv.com:8000/imam/imam2019/4
-#EXTINF:-1,BEIN_SPORTS_5_HD
-http://universeiptv.com:8000/imam/imam2019/5
-#EXTINF:-1,BEIN_SPORTS_6_HD
-http://universeiptv.com:8000/imam/imam2019/6
-#EXTINF:-1,BEIN_SPORTS_7_HD
-http://universeiptv.com:8000/imam/imam2019/7
-#EXTINF:-1,BEIN_SPORTS_8_HD
-http://universeiptv.com:8000/imam/imam2019/8
-#EXTINF:-1,BEIN_SPORTS_9_HD
-http://universeiptv.com:8000/imam/imam2019/9
-#EXTINF:-1,BEIN_SPORTS_10_HD
-http://universeiptv.com:8000/imam/imam2019/10
-#EXTINF:-1,BEIN_SPORTS_11_HD
-http://universeiptv.com:8000/imam/imam2019/11
-#EXTINF:-1,BEIN_SPORTS_12_HD
-http://universeiptv.com:8000/imam/imam2019/12
-#EXTINF:-1,TR:Bein_Sport_1
-http://universeiptv.com:8000/imam/imam2019/568
-#EXTINF:-1,TR:Bein_Sport_2
-http://universeiptv.com:8000/imam/imam2019/840
-#EXTINF:-1,TR:Bein_Sport_3
-http://universeiptv.com:8000/imam/imam2019/841
+#EXTINF:-1,Bein sport Globale HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/363
+#EXTINF:-1,BeiN sport 1 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/364
+#EXTINF:-1,BeIN Sport 1 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/685
+#EXTINF:-1,BeIN sport 2 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/365
+#EXTINF:-1,BeIN sport 2 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/686
+#EXTINF:-1,Bein sports 3 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/366
+#EXTINF:-1,BeIN sport 3 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/687
+#EXTINF:-1,Bein sports 4 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/367
+#EXTINF:-1,BeIN Sport 4 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/688
+#EXTINF:-1,BeIN Sport 5 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/368
+#EXTINF:-1,BeIN Sport 5 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/689
+#EXTINF:-1,Bein sports 6 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/369
+#EXTINF:-1,BeIN Sport 6 BkUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/690
+#EXTINF:-1,Bein sports 7 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/370
+#EXTINF:-1,BeIN Sport 7 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/691
+#EXTINF:-1,Bein sports 8 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/371
+#EXTINF:-1,BeIN Sport 8 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/692
+#EXTINF:-1,Bein sports 9 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/372
+#EXTINF:-1,BeIN Sport 9 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/693
+#EXTINF:-1,Bein sports 10 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/373
+#EXTINF:-1,BeIN sport 10 BKUP
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/695
+#EXTINF:-1,Bein sport 11 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/374
+#EXTINF:-1,BeIN sport 12 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/375
+#EXTINF:-1,Bein Sport 13 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/19996
+#EXTINF:-1,BeIN Sport 14 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/19997
+#EXTINF:-1,Bein Sport 15 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/19998
+#EXTINF:-1,Bein Sport 16 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/19999
+#EXTINF:-1,Arena Sport 1 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/497
+#EXTINF:-1,Arena Sport 2 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/498
+#EXTINF:-1,Arena Sport 3 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/499
+#EXTINF:-1,Arena Sport 4 HD
+http://iptvboxy.com:8000/Fluessonic/Fluessonic/500
