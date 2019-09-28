@@ -1,186 +1,171 @@
 #EXTM3U
-#EXTINF:-1,MYTV aflam1
-http://185.228.19.115:8009/MyTV_Aflam1/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,MYTV aflam2
-http://185.228.19.115:8009/MyTV_Aflam2/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,MYTV classic
-http://185.228.19.115:8009/MyTV_Classic/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,MYTV documentary
-http://185.228.19.115:8009/MyTV_Documentary/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,MYTV comedy
-http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,MBC HD1
-http://208.91.107.98:8009/MBC_1/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,MBC MASR1
-http://208.91.107.98:8009/MBC_Masr_1/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,Yahala
-http://208.91.107.106:8009/Yahala_HD/video.m3u8?token=39yG83J-11
-#EXTINF:-1,OSN yahala drama
-http://208.91.107.106:8009/Yahala_Drama/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Yahala cinema
-http://208.91.107.106:8009/Yahala_Cinema/video.m3u8?token=39yG83J-11
-#EXTINF:-1,OSN ALYOUM
-http://208.91.107.106:8009/ALYOUM/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Alpha cinema1
-http://208.91.107.106:8009/cenima1/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Alpha cinema2
-http://208.91.107.106:8009/cenima2/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Alpha musalsalat
-http://208.91.107.106:8009/Mosalsalat/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Rotana classic
-http://208.91.107.98:8009/Rotana_Classic/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,ON E
-http://208.91.107.106:8009/On_E/video.m3u8?token=39yG83J-11
-#EXTINF:-1,CTV
-http://208.91.107.106:8009/CTV_News/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Lana TV
-http://208.91.107.114:8009/Lana_TV/mono.m3u8?token=-FSriB9nk3
-#EXTINF:-1,OSN action HD
-http://208.91.107.106:8009/Action_Movies/video.m3u8?token=39yG83J-11
-#EXTINF:-1,OSN star world
-http://208.91.107.122:8009/Star_World/mono.m3u8?token=_xNpVIZh22
-#EXTINF:-1,OSN E
-http://208.91.107.106:8009/E/video.m3u8?token=39yG83J-11
-#EXTINF:-1,OSN cinema
-http://208.91.107.106:8009/M_Cinema/video.m3u8?token=39yG83J-11
-#EXTINF:-1,OSN family movies
-http://208.91.107.106:8009/Family_Movies/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Movies hd1
-http://185.228.19.115:8009/Movies1/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,Movies hd2
-http://185.228.19.115:8009/Movies2/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,Movies hd3
-http://185.228.19.115:8009/Movies3/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,Movies hd4
-http://185.228.19.115:8009/Movies4/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,Movies hd5
-http://185.228.19.115:8009/Movies5/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1,Movies hd6
-http://185.228.19.115:8009/Movies6/mono.m3u8?token=4xqfYjeH82
-
-#EXTINF:-1,Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1,ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1,Nabd Syria
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
-#EXTINF:-1,Amen FM 89.5
-http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
-#EXTINF:-1,~ Palestine TV ~
-http://users.atw.hu/szbszig/palestine.mp3
-#EXTINF:-1,Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1,Al Rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1,Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,Masdar TV
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1,Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1,Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1,Dubai TV*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1,Dubai One**
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1,Dubai Zaman*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1,Dubai Sports*
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,Sama Dubai*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1,Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1,Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1,Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,Abu Dhabi Sports SD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abu Dhabi Sports SD*
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,Abu Dhabi Sports 2 SD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 SD*
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1,Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1,Al Jazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1,Al Jazeera Mubasher
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
-#EXTINF:-1,Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,Al Rai
-http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-#EXTINF:-1,KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1,KTV 1*
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-#EXTINF:-1,KTV 2
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
-#EXTINF:-1,KTV 2*
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1,KTV Sport
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-#EXTINF:-1,KTV Al Arabi
-https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
-#EXTINF:-1,KTV Plus
-https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-#EXTINF:-1,KTV Al Majlis
-https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-#EXTINF:-1,CBC
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
-#EXTINF:-1,Nessma*
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
-#EXTINF:-1,Al Nabaa
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
-#EXTINF:-1,Libya TV
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-#EXTINF:-1,Al Aoula Int'l
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1,Al Aoula Laayoune
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1,MBC HD1
-http://208.91.107.98:8009/MBC_1/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,MBC MASR1
-http://208.91.107.98:8009/MBC_Masr_1/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,LBC
-http://208.91.107.98:8009/LBC/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,OTV
-http://208.91.107.98:8009/OTV/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,LDC
-http://208.91.107.98:8009/LDC/video.m3u8?token=zapYC_Df60
-#EXTINF:-1,Bein max sd1
-http://208.91.107.106:8009/B-Sports_max1/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Bein max sd2
-http://208.91.107.106:8009/B-Sports_max2/video.m3u8?token=39yG83J-11
-#EXTINF:-1,Sky sports
-http://208.91.107.106:8009/Sky_sports_football/video.m3u8?token=39yG83J-11
+#EXTINF:-1,BEIN_SPORT_1_HD
+http://universeiptv.com:8000/imam/imam2019/858
+#EXTINF:-1,BEIN_SPORT_2_HD
+http://universeiptv.com:8000/imam/imam2019/859
+#EXTINF:-1,BEIN_SPORT_3_HD
+http://universeiptv.com:8000/imam/imam2019/860
+#EXTINF:-1,BEIN_SPORT_4_HD
+http://universeiptv.com:8000/imam/imam2019/861
+#EXTINF:-1,BEIN_SPORT_5_HD
+http://universeiptv.com:8000/imam/imam2019/862
+#EXTINF:-1,BEIN_SPORT_6_HD
+http://universeiptv.com:8000/imam/imam2019/863
+#EXTINF:-1,BEIN_SPORT_7_HD
+http://universeiptv.com:8000/imam/imam2019/864
+#EXTINF:-1,BEIN_SPORT_8_HD
+http://universeiptv.com:8000/imam/imam2019/865
+#EXTINF:-1,BEIN_SPORT_9_HD
+http://universeiptv.com:8000/imam/imam2019/866
+#EXTINF:-1,BEIN_SPORT_10_HD
+http://universeiptv.com:8000/imam/imam2019/867
+#EXTINF:-1,BEIN_SPORT_11_HD
+http://universeiptv.com:8000/imam/imam2019/3026
+#EXTINF:-1,BEIN_SPORT_12_HD
+http://universeiptv.com:8000/imam/imam2019/3027
+#EXTINF:-1,BEIN_SPORT_13_HD
+http://universeiptv.com:8000/imam/imam2019/13
+#EXTINF:-1,BEIN_SPORT_14_HD
+http://universeiptv.com:8000/imam/imam2019/14
+#EXTINF:-1,BEIN_SPORT_15_HD
+http://universeiptv.com:8000/imam/imam2019/15
+#EXTINF:-1,BEIN_SPORT_16_HD
+http://universeiptv.com:8000/imam/imam2019/19978
+#EXTINF:-1,bein_Sports_SD1
+http://universeiptv.com:8000/imam/imam2019/1003
+#EXTINF:-1,bein_Sports_SD2
+http://universeiptv.com:8000/imam/imam2019/1004
+#EXTINF:-1,bein_Sports_SD3
+http://universeiptv.com:8000/imam/imam2019/1005
+#EXTINF:-1,bein_Sports_SD4
+http://universeiptv.com:8000/imam/imam2019/1006
+#EXTINF:-1,bein_Sports_SD5
+http://universeiptv.com:8000/imam/imam2019/1007
+#EXTINF:-1,bein_Sports_SD6
+http://universeiptv.com:8000/imam/imam2019/1008
+#EXTINF:-1,bein_Sports_SD7
+http://universeiptv.com:8000/imam/imam2019/1009
+#EXTINF:-1,bein_Sports_SD8
+http://universeiptv.com:8000/imam/imam2019/1010
+#EXTINF:-1,bein_Sports_SD9
+http://universeiptv.com:8000/imam/imam2019/1011
+#EXTINF:-1,bein_Sports_SD10
+http://universeiptv.com:8000/imam/imam2019/1012
+#EXTINF:-1,bein_Sports_SD11
+http://universeiptv.com:8000/imam/imam2019/3028
+#EXTINF:-1,bein_Sports_SD12
+http://universeiptv.com:8000/imam/imam2019/3029
+#EXTINF:-1,BeINsport_HD1_Low
+http://universeiptv.com:8000/imam/imam2019/16
+#EXTINF:-1,BeINsport_HD2_Low
+http://universeiptv.com:8000/imam/imam2019/17
+#EXTINF:-1,BeINsport_HD3_Low
+http://universeiptv.com:8000/imam/imam2019/18
+#EXTINF:-1,BeINsport_HD4_Low
+http://universeiptv.com:8000/imam/imam2019/19
+#EXTINF:-1,BeINsport_HD5_Low
+http://universeiptv.com:8000/imam/imam2019/20
+#EXTINF:-1,BeINsport_HD6_Low
+http://universeiptv.com:8000/imam/imam2019/21
+#EXTINF:-1,BeINsport_HD7_Low
+http://universeiptv.com:8000/imam/imam2019/22
+#EXTINF:-1,BeINsport_HD8_Low
+http://universeiptv.com:8000/imam/imam2019/23
+#EXTINF:-1,BeINsport_HD9_Low
+http://universeiptv.com:8000/imam/imam2019/24
+#EXTINF:-1,BeINsport_HD10_Low
+http://universeiptv.com:8000/imam/imam2019/25
+#EXTINF:-1,BEIN_SPORT_1_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3111
+#EXTINF:-1,BEIN_SPORT_2_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3110
+#EXTINF:-1,BEIN_SPORT_3_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3109
+#EXTINF:-1,BEIN_SPORT_4_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3108
+#EXTINF:-1,BEIN_SPORT_5_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3107
+#EXTINF:-1,BEIN_SPORT_6_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3106
+#EXTINF:-1,BEIN_SPORT_7_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3105
+#EXTINF:-1,BEIN_SPORT_8_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3104
+#EXTINF:-1,BEIN_SPORT_9_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3103
+#EXTINF:-1,BEIN_SPORT_10_HD_1080p
+http://universeiptv.com:8000/imam/imam2019/3102
+#EXTINF:-1,BEIN_SPORT_1_H265
+http://universeiptv.com:8000/imam/imam2019/5544
+#EXTINF:-1,BEIN_SPORT_2_H265
+http://universeiptv.com:8000/imam/imam2019/5543
+#EXTINF:-1,BEIN_SPORT_3_H265
+http://universeiptv.com:8000/imam/imam2019/5542
+#EXTINF:-1,BEIN_SPORT_4_H265
+http://universeiptv.com:8000/imam/imam2019/5541
+#EXTINF:-1,BEIN_SPORT_5_H265
+http://universeiptv.com:8000/imam/imam2019/5540
+#EXTINF:-1,BEIN_SPORT_6_H265
+http://universeiptv.com:8000/imam/imam2019/5539
+#EXTINF:-1,BEIN_SPORT_7_H265
+http://universeiptv.com:8000/imam/imam2019/5538
+#EXTINF:-1,BEIN_SPORT_8_H265
+http://universeiptv.com:8000/imam/imam2019/5537
+#EXTINF:-1,BEIN_SPORT_9_H265
+http://universeiptv.com:8000/imam/imam2019/5536
+#EXTINF:-1,BEIN_SPORT_10_H265
+http://universeiptv.com:8000/imam/imam2019/5535
+#EXTINF:-1,BEIN_SPORT_11_H265
+http://universeiptv.com:8000/imam/imam2019/5534
+#EXTINF:-1,BEIN_SPORT_12_H265
+http://universeiptv.com:8000/imam/imam2019/5533
+#EXTINF:-1,Bein_sport_1
+http://universeiptv.com:8000/imam/imam2019/165
+#EXTINF:-1,Bein_sport_2
+http://universeiptv.com:8000/imam/imam2019/167
+#EXTINF:-1,Bein_sport_3
+http://universeiptv.com:8000/imam/imam2019/168
+#EXTINF:-1,Bein_sport_4
+http://universeiptv.com:8000/imam/imam2019/169
+#EXTINF:-1,Bein_sport_5
+http://universeiptv.com:8000/imam/imam2019/170
+#EXTINF:-1,Bein_sport_6
+http://universeiptv.com:8000/imam/imam2019/171
+#EXTINF:-1,Bein_sport_7
+http://universeiptv.com:8000/imam/imam2019/172
+#EXTINF:-1,Bein_sport_8
+http://universeiptv.com:8000/imam/imam2019/173
+#EXTINF:-1,Bein_sport_9
+http://universeiptv.com:8000/imam/imam2019/174
+#EXTINF:-1,Bein_sport_10
+http://universeiptv.com:8000/imam/imam2019/166
+#EXTINF:-1,BEIN_SPORTS_1_HD
+http://universeiptv.com:8000/imam/imam2019/1
+#EXTINF:-1,BEIN_SPORTS_2_HD
+http://universeiptv.com:8000/imam/imam2019/2
+#EXTINF:-1,BEIN_SPORTS_3_HD
+http://universeiptv.com:8000/imam/imam2019/3
+#EXTINF:-1,BEIN_SPORTS_4_HD
+http://universeiptv.com:8000/imam/imam2019/4
+#EXTINF:-1,BEIN_SPORTS_5_HD
+http://universeiptv.com:8000/imam/imam2019/5
+#EXTINF:-1,BEIN_SPORTS_6_HD
+http://universeiptv.com:8000/imam/imam2019/6
+#EXTINF:-1,BEIN_SPORTS_7_HD
+http://universeiptv.com:8000/imam/imam2019/7
+#EXTINF:-1,BEIN_SPORTS_8_HD
+http://universeiptv.com:8000/imam/imam2019/8
+#EXTINF:-1,BEIN_SPORTS_9_HD
+http://universeiptv.com:8000/imam/imam2019/9
+#EXTINF:-1,BEIN_SPORTS_10_HD
+http://universeiptv.com:8000/imam/imam2019/10
+#EXTINF:-1,BEIN_SPORTS_11_HD
+http://universeiptv.com:8000/imam/imam2019/11
+#EXTINF:-1,BEIN_SPORTS_12_HD
+http://universeiptv.com:8000/imam/imam2019/12
+#EXTINF:-1,TR:Bein_Sport_1
+http://universeiptv.com:8000/imam/imam2019/568
+#EXTINF:-1,TR:Bein_Sport_2
+http://universeiptv.com:8000/imam/imam2019/840
+#EXTINF:-1,TR:Bein_Sport_3
+http://universeiptv.com:8000/imam/imam2019/841
